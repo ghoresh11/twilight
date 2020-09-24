@@ -1,0 +1,605 @@
+Class	COG	Word	Label	Count
+Cluster specific core	C	galactitol-1-phosphate dehydrogenase	galactitol-1-phosphate dehydro	1
+Cluster specific core	C	d-isomer specific 2-hydroxyacid dehydrogenase	d-isomer specific 2-hydroxyaci	2
+Cluster specific core	C	catalyzes reversible transfer coa moiety gamma-butyrobetainyl-coa l-carnitine generate l-carnitinyl- coa gamma-butyrobetaine. catalyze reversible transfer coa moiety gamma-butyrobetainyl- coa l-carnitinyl-coa crotonobetaine generate crotonobetainyl-coa	catalyzes reversible transfer 	1
+Cluster specific core	C	fad linked oxidase	fad linked oxidase	2
+Cluster specific core	C	sorbitol-6-phosphate dehydrogenase	sorbitol-6-phosphate dehydroge	2
+Cluster specific core	C	cog glycerophosphoryl diester phosphodiesterase	cog glycerophosphoryl diester 	1
+Cluster specific core	C	b-type cytochrome	b-type cytochrome	2
+Cluster specific core	C	involved transport multicopy suppressor dominant negative ftsh mutants	involved transport multicopy s	4
+Cluster specific core	C	ferredoxin-like ygco	ferredoxin-like ygco	1
+Cluster specific core	C	dimethyl sulfoxide reductase	dimethyl sulfoxide reductase	6
+Cluster specific core	C	nadh dehydrogenase ubiquinone 30 kda	nadh dehydrogenase ubiquinone 	2
+Cluster specific core	C	electron transport	electron transport	2
+Cluster specific core	C	dimethyl sulfoxide reductase chain ynff	dimethyl sulfoxide reductase c	2
+Cluster specific core	C	formate dehydrogenase alpha	formate dehydrogenase alpha	2
+Cluster specific core	C	electron transfer flavoprotein-quinone	electron transfer flavoprotein	3
+Cluster specific core	C	glycerol dehydrogenase	glycerol dehydrogenase	2
+Cluster specific core	C	malate dehydrogenase quinone	malate dehydrogenase quinone	3
+Cluster specific core	C	electron transfer	electron transfer	6
+Cluster specific core	C	electron transfer flavoprotein-ubiquinone oxidoreductase	electron transfer flavoprotein	1
+Cluster specific core	C	formate acetyltransferase	formate acetyltransferase	2
+Cluster specific core	C	pyruvate dehydrogenase	pyruvate dehydrogenase	2
+Cluster specific core	C	malate synthase	malate synthase	2
+Cluster specific core	C	aldehyde ferredoxin oxidoreductase	aldehyde ferredoxin oxidoreduc	1
+Cluster specific core	C	hydroxyglutarate oxidase	hydroxyglutarate oxidase	1
+Cluster specific core	C	fad nadp-binding	fad nadp-binding	1
+Cluster specific core	C	pyruvate formate lyase ii activase	pyruvate formate lyase ii acti	1
+Cluster specific core	C	anaerobic dimethyl sulfoxide reductase dmsa ynfe	anaerobic dimethyl sulfoxide r	2
+Cluster specific core	C	iron-sulfur cluster binding	iron-sulfur cluster binding	1
+Cluster specific core	C	alcohol dehydrogenase groes	alcohol dehydrogenase groes	1
+Cluster specific core	C	pyridine nucleotide-disulfide oxidoreductase	pyridine nucleotide-disulfide 	1
+Cluster specific core	C	aldo keto reductase	aldo keto reductase	2
+Cluster specific core	E	carbamate kinase	carbamate kinase	1
+Cluster specific core	E	amino acid amine transport	amino acid amine transport	1
+Cluster specific core	E	allophanate hydrolase 2	allophanate hydrolase 2	2
+Cluster specific core	E	acetylornithine aminotransferase	acetylornithine aminotransfera	2
+Cluster specific core	E	ethanolamine ammonia-lyase	ethanolamine ammonia-lyase	1
+Cluster specific core	E	extracellular solute-binding	extracellular solute-binding	1
+Cluster specific core	E	d-serine deaminase	d-serine deaminase	1
+Cluster specific core	E	tryptophan transporter low affinity	tryptophan transporter low aff	2
+Cluster specific core	E	ethanolamine utilization eutd	ethanolamine utilization eutd	1
+Cluster specific core	E	l-threonine 3-dehydrogenase	l-threonine 3-dehydrogenase	2
+Cluster specific core	E	inner membrane transporter	inner membrane transporter	9
+Cluster specific core	E	aminotransferase class ii	aminotransferase class ii	1
+Cluster specific core	E	imidazole glycerol phosphate synthase	imidazole glycerol phosphate s	1
+Cluster specific core	E	murein peptide amidase	murein peptide amidase	1
+Cluster specific core	E	aminobenzoyl-glutamate utilization	aminobenzoyl-glutamate utiliza	1
+Cluster specific core	E	4-aminobutyrate aminotransferase	4-aminobutyrate aminotransfera	2
+Cluster specific core	E	amino acid carrier	amino acid carrier	3
+Cluster specific core	E	catalyzes hydrolysis n2-succinylarginine n2-succinylornithine ammonia co2	catalyzes hydrolysis n2-succin	2
+Cluster specific core	E	inner membrane transporter ygji	inner membrane transporter ygj	5
+Cluster specific core	E	ethanolamine utilization eutl	ethanolamine utilization eutl	1
+Cluster specific core	E	methylaspartate ammonia-lyase n-terminus	methylaspartate ammonia-lyase 	2
+Cluster specific core	E	amino acid racemase	amino acid racemase	2
+Cluster specific core	E	proton-dependent permease transports di- tripeptides	proton-dependent permease tran	3
+Cluster specific core	E	l-asparagine permease	l-asparagine permease	1
+Cluster specific core	E	involved pyrimidine base degradation. catalyzes physiologically reduction uracil 56-dihydrouracil dhu using nadh specific cosubstrate. catalyzes reverse reaction reduction thymine 56- dihydrothymine dht	involved pyrimidine base degra	2
+Cluster specific core	E	glutathionylspermidine synthase	glutathionylspermidine synthas	4
+Cluster specific core	E	gamma-glutamyltranspeptidase ec 2.3.2.2	gamma-glutamyltranspeptidase e	1
+Cluster specific core	E	amino acid	amino acid	9
+Cluster specific core	E	colanic acid biosynthesis acetyltransferase wcab	colanic acid biosynthesis acet	1
+Cluster specific core	E	inner membrane transporter yjem	inner membrane transporter yje	4
+Cluster specific core	E	catalyzes dehydration l-rhamnonate 2-keto-3- deoxy-l-rhamnonate kdr	catalyzes dehydration l-rhamno	2
+Cluster specific core	E	glutamine synthetase	glutamine synthetase	1
+Cluster specific core	E	pyridoxal phosphate binding	pyridoxal phosphate binding	1
+Cluster specific core	E	amino acid abc transporter	amino acid abc transporter	3
+Cluster specific core	D	component sos inhibitor division. accumulation sula causes rapid cessation division appearance long non-septate filaments. presence gtp binds polymerization-competent form ftsz 1 1 ratio thus inhibiting ftsz polymerization therefore preventing participating assembly z ring. mechanism prevents premature segregation damaged daughter cells division	component sos inhibitor divisi	1
+Cluster specific core	D	toxin hemolytic activity towards mammalian cells. acts forming pore-like structure upon contact mammalian cells	toxin hemolytic activity towar	2
+Cluster specific core	G	part abc transporter complex lsrabcd involved autoinducer 2 ai-2 import. responsible energy coupling transport	part abc transporter complex l	3
+Cluster specific core	G	phosphoryl carrier	phosphoryl carrier	10
+Cluster specific core	G	pts galactitol-specific	pts galactitol-specific	2
+Cluster specific core	G	pts glucitol sorbitol-specific	pts glucitol sorbitol-specific	1
+Cluster specific core	G	catalyzes reversible retro-aldol cleavage both 5- keto-4-deoxy-d-glucarate 2-keto-3-deoxy-d-glucarate pyruvate tartronic semialdehyde	catalyzes reversible retro-ald	2
+Cluster specific core	G	glycosyl hydrolase 25	glycosyl hydrolase 25	2
+Cluster specific core	G	unknown duf386	unknown duf386	1
+Cluster specific core	G	melibiose sodium symporter	melibiose sodium symporter	1
+Cluster specific core	G	xylose isomerase	xylose isomerase	2
+Cluster specific core	G	part elfadcg-ycbuvf fimbrial operon promotes adhesion bacteria different abiotic surfaces. elfa major fimbrial produced operon	part elfadcg-ycbuvf fimbrial o	1
+Cluster specific core	G	transaldolase important balance metabolites pentose-phosphate pathway	transaldolase important balanc	2
+Cluster specific core	G	aldose 1-epimerase	aldose 1-epimerase	1
+Cluster specific core	G	transport araj	transport araj	1
+Cluster specific core	G	multifunctional includes general non sugar-specific sugar-specific components phosphoenolpyruvate-dependent sugar phosphotransferase sugar pts. major carbohydrate active-transport catalyzes phosphorylation incoming sugar substrates concomitantly translocation membrane. enzyme transfers phosphoryl group phosphoenolpyruvate pep phosphoryl carrier hpr. hpr transfers phosphoryl group phosphoryl carrier eiia transfers eiib	multifunctional includes gener	4
+Cluster specific core	G	periplasmic binding laci transcriptional regulator	periplasmic binding laci trans	2
+Cluster specific core	G	inner membrane metabolite transport ygcs	inner membrane metabolite tran	1
+Cluster specific core	G	uptake l-rhamnose boundary membrane concomitant transport protons symport	uptake l-rhamnose boundary mem	2
+Cluster specific core	G	pep-protein phosphotransferase enzyme	pep-protein phosphotransferase	3
+Cluster specific core	G	alpha-amylase ec 3.2.1.1	alpha-amylase ec 3.2.1.1	3
+Cluster specific core	G	proton-dependent permease transports dipeptides	proton-dependent permease tran	1
+Cluster specific core	G	iia component	iia component	2
+Cluster specific core	G	d-xylose transporter xylf	d-xylose transporter xylf	1
+Cluster specific core	G	sugar efflux transporter	sugar efflux transporter	2
+Cluster specific core	G	inner membrane abc transporter permease ycjo	inner membrane abc transporter	1
+Cluster specific core	G	abc transporter periplasmic-binding yphf	abc transporter periplasmic-bi	2
+Cluster specific core	G	galactosamine-specific pts enzyme iib component	galactosamine-specific pts enz	1
+Cluster specific core	G	inner membrane metabolite transport ydje	inner membrane metabolite tran	1
+Cluster specific core	G	l-arabinose-binding periplasmic	l-arabinose-binding periplasmi	1
+Cluster specific core	G	transfers phosphoryl group	transfers phosphoryl group	10
+Cluster specific core	G	general non sugar-specific component phosphoenolpyruvate-dependent sugar phosphotransferase sugar pts. major carbohydrate active-transport catalyzes phosphorylation incoming sugar substrates concomitantly translocation membrane. enzyme transfers phosphoryl group phosphoenolpyruvate pep phosphoryl carrier hpr	general non sugar-specific com	2
+Cluster specific core	G	hexuronate transporter	hexuronate transporter	2
+Cluster specific core	G	epimerase dehydratase	epimerase dehydratase	2
+Cluster specific core	G	l-xylulose kinase	l-xylulose kinase	3
+Cluster specific core	G	periplasmic alpha-amylase	periplasmic alpha-amylase	1
+Cluster specific core	G	part tri-partite atp-independent periplasmic transport trap yiamno	part tri-partite atp-independe	1
+Cluster specific core	G	part abc transporter complex	part abc transporter complex	6
+Cluster specific core	G	involved efflux purine ribonucleosides such guanosine adenosine especially inosine. involved resistance 6-mercaptopurine	involved efflux purine ribonuc	1
+Cluster specific core	G	major facilitator superfamily	major facilitator superfamily	6
+Cluster specific core	G	metabolite h symporter major facilitator superfamily mfs	metabolite h symporter major f	3
+Cluster specific core	G	transfer alpha-xylosyl residue alpha-xyloside xylose glucose mannose fructose maltose isomaltose nigerose kojibiose sucrose trehalose	transfer alpha-xylosyl residue	1
+Cluster specific core	G	d-allose kinase	d-allose kinase	1
+Cluster specific core	G	glucose-1-phosphatase inositol phosphatase	glucose-1-phosphatase inositol	1
+Cluster specific core	G	pts maltose- glucose-specific	pts maltose- glucose-specific	1
+Cluster specific core	G	catalyzes dehydration d-galactonate 2-keto-3- deoxy-d-galactonate	catalyzes dehydration d-galact	1
+Cluster specific core	G	sucrose phosphorylase	sucrose phosphorylase	2
+Cluster specific core	G	multidrug resistance mdtg	multidrug resistance mdtg	2
+Cluster specific core	G	catalyzes oxidative decarboxylation 6- phosphogluconate ribulose 5-phosphate co2 concomitant reduction nadp nadph	catalyzes oxidative decarboxyl	2
+Cluster specific core	G	pts cellobiose arbutin salicin-specific transporter	pts cellobiose arbutin salicin	1
+Cluster specific core	G	trap dicarboxylate transporter dctp	trap dicarboxylate transporter	3
+Cluster specific core	G	glycoside hydrolase	glycoside hydrolase	4
+Cluster specific core	G	fructose-16-bisphosphate aldolase	fructose-16-bisphosphate aldol	2
+Cluster specific core	G	catalyzes nad-dependent conversion d-erythrose 4- phosphate 4-phosphoerythronate	catalyzes nad-dependent conver	2
+Cluster specific core	G	mannitol dehydrogenase	mannitol dehydrogenase	3
+Cluster specific core	G	pts 2-o-a-mannosyl-d-glycerate specific transporter iiabc	pts 2-o-a-mannosyl-d-glycerate	1
+Cluster specific core	G	inner membrane yqce	inner membrane yqce	1
+Cluster specific core	G	sugar kinase	sugar kinase	6
+Cluster specific core	G	import. responsible energy coupling transport	import. responsible energy cou	6
+Cluster specific core	G	fimbrial-like adhesin	fimbrial-like adhesin	1
+Cluster specific core	G	putative mutase	putative mutase	3
+Cluster specific core	G	abc transporter	abc transporter	12
+Cluster specific core	G	major facilitator	major facilitator	10
+Cluster specific core	G	aminoimidazole riboside kinase	aminoimidazole riboside kinase	1
+Cluster specific core	G	beta-glucosidase ec 3.2.1.21	beta-glucosidase ec 3.2.1.21	1
+Cluster specific core	G	metabolite transport ydjk	metabolite transport ydjk	2
+Cluster specific core	G	d-allose transporter	d-allose transporter	5
+Cluster specific core	G	glcnac 6-p deacetylase	glcnac 6-p deacetylase	1
+Cluster specific core	G	part abc transporter complex xylfgh involved xylose import. responsible energy coupling transport	part abc transporter complex x	3
+Cluster specific core	G	clear involved isomerization step	clear involved isomerization s	2
+Cluster specific core	G	pts nn-diacetylchitobiose-specific transporter iic	pts nn-diacetylchitobiose-spec	1
+Cluster specific core	G	pts nn-diacetylchitobiose-specific transporter iib	pts nn-diacetylchitobiose-spec	1
+Cluster specific core	G	pts beta-glucoside-specific transporter iiabc	pts beta-glucoside-specific tr	2
+Cluster specific core	G	n-acylglucosamine 2-epimerase	n-acylglucosamine 2-epimerase	1
+Cluster specific core	G	maltodextrin glucosidase	maltodextrin glucosidase	4
+Cluster specific core	G	catalyzes transfer glucose udp-glucose glucose-6-phosphate form alphaalpha-11 trehalose-6-phosphate. acts retention anomeric configuration udp-sugar donor	catalyzes transfer glucose udp	1
+Cluster specific core	G	inner membrane	inner membrane	4
+Cluster specific core	G	ump phosphatase	ump phosphatase	1
+Cluster specific core	F	catalyzes reduction fmn fmnh2 used reduce pyrimidine ruta via rut pathway	catalyzes reduction fmn fmnh2 	2
+Cluster specific core	F	adenine deaminase	adenine deaminase	2
+Cluster specific core	F	deoxyguanosinetriphosphate triphosphohydrolase-like	deoxyguanosinetriphosphate tri	1
+Cluster specific core	F	purine permease ybby	purine permease ybby	2
+Cluster specific core	F	catalyzes pyrimidine ring opening between n-3 c- 4 unusual flavin hydroperoxide-catalyzed mechanism yield ureidoacrylate peracid. cleaves pyrmidine rings directly adding oxygen atoms making toxic ureidoacrylate peracid product spontaneously reduced ureidoacrylate	catalyzes pyrimidine ring open	2
+Cluster specific core	F	catalyzes hydrolysis nucleoside triphosphates preference pyrimidine deoxynucleoside triphosphates dutp dttp dctp	catalyzes hydrolysis nucleosid	2
+Cluster specific core	F	dihydropyrimidine dehydrogenase	dihydropyrimidine dehydrogenas	2
+Cluster specific core	F	xanthine dehydrogenase	xanthine dehydrogenase	2
+Cluster specific core	F	bifunctional udp-sugar hydrolase 5-nucleotidase periplasmic	bifunctional udp-sugar hydrola	2
+Cluster specific core	F	cytosine purines uracil thiamine allantoin	cytosine purines uracil thiami	2
+Cluster specific core	F	nucleoside transporter	nucleoside transporter	1
+Cluster specific core	F	xanthosine permease	xanthosine permease	2
+Cluster specific core	F	reduce aminoacrylate peracid aminoacrylate. required remove toxic intermediate produce pyrimidine nitrogen degradation	reduce aminoacrylate peracid a	2
+Cluster specific core	F	probably involved ribonucleotide reductase	probably involved ribonucleoti	1
+Cluster specific core	F	bifunctional 23-cyclic nucleotide 2-phosphodiesterase 3-nucleotidase periplasmic	bifunctional 23-cyclic nucleot	1
+Cluster specific core	F	dihydro-orotase ec 3.5.2.3	dihydro-orotase ec 3.5.2.3	1
+Cluster specific core	F	vivo quickly hydrolyzes ureidoacrylate peracid avoid toxicity hydrolyzes ureidoacrylate formed spontaneously ureidoacrylate peracid. one products hydrolysis carbamate hydrolyzes spontaneously thereby releasing one pyrimidine rings nitrogen atoms ammonia one carbons co2	vivo quickly hydrolyzes ureido	1
+Cluster specific core	F	involved anaerobic utilization allantoin. reinforces induction genes involved degradation allantoin glyoxylate producing glyoxylate	involved anaerobic utilization	1
+Cluster specific core	I	acyl-coa dehydrogenase	acyl-coa dehydrogenase	4
+Cluster specific core	I	phospholipase d	phospholipase d	1
+Cluster specific core	I	amp-dependent synthetase ligase	amp-dependent synthetase ligas	3
+Cluster specific core	I	3-hydroxyisobutyrate dehydrogenase	3-hydroxyisobutyrate dehydroge	1
+Cluster specific core	I	methylmalonyl-coa mutase	methylmalonyl-coa mutase	5
+Cluster specific core	I	coa transferase having broad substrate specificity short-chain acyl-coa thioesters activity decreasing length carboxylic acid chain exceeds four carbons	coa transferase having broad s	2
+Cluster specific core	I	2-hydroxy-3-oxopropionate reductase	2-hydroxy-3-oxopropionate redu	1
+Cluster specific core	I	alpha beta hydrolase	alpha beta hydrolase	1
+Cluster specific core	I	inner membrane ynjf	inner membrane ynjf	1
+Cluster specific core	I	enoyl-coa hydratase	enoyl-coa hydratase	1
+Cluster specific core	H	catalyzes both atp-dependent activation exogenously supplied lipoate lipoyl-amp transfer activated lipoyl onto lipoyl domains lipoate-dependent enzymes	catalyzes both atp-dependent a	3
+Cluster specific core	H	catalyzes decarboxylation 3-octaprenyl-4-hydroxy benzoate 2-octaprenylphenol	catalyzes decarboxylation 3-oc	1
+Cluster specific core	H	l-aspartate oxidase	l-aspartate oxidase	4
+Cluster specific core	H	catalyzes condensation iminoaspartate dihydroxyacetone phosphate form quinolinate	catalyzes condensation iminoas	1
+Cluster specific core	H	catalyzes transfer 4-phosphopantetheine moiety coenzyme apo-domains both entb arcp entf pcp domain. plays essential role assembly enterobactin	catalyzes transfer 4-phosphopa	1
+Cluster specific core	K	effects overcome concomitant expression antitoxin soha prlf. massive overexpression toxic. unlike characterized ta systems degrades rrna co-folding proteins necessary vitro inhibition rnase activity. known sequence-specificity. acts transcription factor. yhav prlf complex binds prlf-yhav operon probably negatively regulating expression	effects overcome concomitant e	2
+Cluster specific core	K	positive regulator essential expression alld operon. binds alld promoter	positive regulator essential e	2
+Cluster specific core	K	flagella biosynthesis fliz	flagella biosynthesis fliz	2
+Cluster specific core	K	anti-terminator regulatory	anti-terminator regulatory	2
+Cluster specific core	K	transcriptional regulator	transcriptional regulator	58
+Cluster specific core	K	transcriptional regulator yidz	transcriptional regulator yidz	2
+Cluster specific core	K	nagc-like transcriptional regulator	nagc-like transcriptional regu	2
+Cluster specific core	K	propionate catabolism operon regulatory	propionate catabolism operon r	1
+Cluster specific core	K	dna-binding transcriptional activator gutm	dna-binding transcriptional ac	1
+Cluster specific core	K	lysr transcriptional regulator	lysr transcriptional regulator	10
+Cluster specific core	K	parb nuclease	parb nuclease	2
+Cluster specific core	K	carbohydrate diacid transcriptional activator cdar	carbohydrate diacid transcript	1
+Cluster specific core	K	transcriptional activator fear	transcriptional activator fear	2
+Cluster specific core	K	transcriptional activator	transcriptional activator	11
+Cluster specific core	K	phage shock	phage shock	1
+Cluster specific core	K	bipartite regulator	bipartite regulator	2
+Cluster specific core	K	transcriptional activator ogr delta	transcriptional activator ogr 	1
+Cluster specific core	K	transcriptional regulator chbr	transcriptional regulator chbr	1
+Cluster specific core	K	positive regulator required l-tartrate-dependent anaerobic growth glycerol. induces expression ttda-ttdb- ygje operon	positive regulator required l-	2
+Cluster specific core	K	transcriptional activator cadc	transcriptional activator cadc	3
+Cluster specific core	K	4-hydroxyphenylacetate catabolism regulatory hpaa	4-hydroxyphenylacetate catabol	1
+Cluster specific core	K	gntr transcriptional regulator	gntr transcriptional regulator	2
+Cluster specific core	K	activates expression rhabad rhat operons	activates expression rhabad rh	1
+Cluster specific core	K	parb-like partition	parb-like partition	1
+Cluster specific core	K	d-allose kinase	d-allose kinase	1
+Cluster specific core	K	cog antirepressor	cog antirepressor	1
+Cluster specific core	K	transcriptional regulator arac	transcriptional regulator arac	7
+Cluster specific core	K	arac transcriptional regulator	arac transcriptional regulator	2
+Cluster specific core	K	transcriptional antiterminator	transcriptional antiterminator	2
+Cluster specific core	J	removes 2-phosphate rna via intermediate phosphate adp-ribosylated nad followed presumed transesterification release rna generate adp- ribose 1-2-cyclic phosphate appr p. adp- ribosylase	removes 2-phosphate rna via in	1
+Cluster specific core	J	class peptide chain release factor	class peptide chain release fa	1
+Cluster specific core	J	ribosomal-protein-l7 l12-serine acetyltransferase	ribosomal-protein-l7 l12-serin	1
+Cluster specific core	J	catalyzes formation 5-methyl-uridine position 1939 m5u1939 23s rrna	catalyzes formation 5-methyl-u	1
+Cluster specific core	J	lysyl-trna synthetase	lysyl-trna synthetase	1
+Cluster specific core	M	biofilm pga synthesis lipoprotein pgab	biofilm pga synthesis lipoprot	2
+Cluster specific core	M	mandelate racemase muconate lactonizing	mandelate racemase muconate la	1
+Cluster specific core	M	glycosyltransferase 9 heptosyltransferase	glycosyltransferase 9 heptosyl	2
+Cluster specific core	M	bacteriophage n4 receptor outer membrane	bacteriophage n4 receptor oute	3
+Cluster specific core	M	gdpmannose 46-dehydratase	gdpmannose 46-dehydratase	3
+Cluster specific core	M	type vi secretion icmf	type vi secretion icmf	4
+Cluster specific core	M	glycosyl transferase 11	glycosyl transferase 11	1
+Cluster specific core	M	outer membrane pgaa	outer membrane pgaa	1
+Cluster specific core	M	cellulose synthase regulator	cellulose synthase regulator	2
+Cluster specific core	M	rhs element vgr	rhs element vgr	12
+Cluster specific core	M	udp-glucose 4-epimerase	udp-glucose 4-epimerase	2
+Cluster specific core	M	o-antigen polymerase	o-antigen polymerase	1
+Cluster specific core	M	lipopolysaccharide core biosynthesis rfas	lipopolysaccharide core biosyn	1
+Cluster specific core	M	dtdp-4-dehydrorhamnose 35-epimerase	dtdp-4-dehydrorhamnose 35-epim	1
+Cluster specific core	M	glycosyl transferase 2	glycosyl transferase 2	4
+Cluster specific core	M	sugar hydrolase	sugar hydrolase	1
+Cluster specific core	M	epimerase dehydratase	epimerase dehydratase	2
+Cluster specific core	M	mannose-1-phosphate guanylyltransferase	mannose-1-phosphate guanylyltr	2
+Cluster specific core	M	outer membrane channel allows efficient diffusion low-molecular-weight solutes such small sugars tetraglycine. specific substrate recognized ompl channel	outer membrane channel allows 	1
+Cluster specific core	M	part multidrug resistance efflux confers resistance compounds such rhodamine 6g erythromycin doxorubicin ethidium bromide tpp sds deoxycholate crystal violet benzalkonium	part multidrug resistance effl	2
+Cluster specific core	M	outer membrane usher	outer membrane usher	39
+Cluster specific core	M	glycosyl transferase group 1	glycosyl transferase group 1	2
+Cluster specific core	M	rhs repeat-associated core	rhs repeat-associated core	1
+Cluster specific core	M	udp-glucose 6-dehydrogenase	udp-glucose 6-dehydrogenase	1
+Cluster specific core	M	cellulose synthase catalytic	cellulose synthase catalytic	6
+Cluster specific core	M	cog yd repeat	cog yd repeat	2
+Cluster specific core	M	catalyzes addition phosphoethanolamine moiety outer membrane lipopolysaccharide core similarity. plays role pathogenesis e.coli meningitis. required invasion e.coli k1 brain microvascular endothelial cells bmec. contributes e.coli traversal blood- brain barrier	catalyzes addition phosphoetha	1
+Cluster specific core	M	antigen 43	antigen 43	3
+Cluster specific core	M	mechanosensitive ion channel	mechanosensitive ion channel	3
+Cluster specific core	M	polysaccharide export	polysaccharide export	2
+Cluster specific core	M	outer membrane yiat	outer membrane yiat	1
+Cluster specific core	M	curli production assembly transport component csgg	curli production assembly tran	1
+Cluster specific core	M	pagp required both biosynthesis hepta-acylated lipid species containing palmitate resistance cationic antimicrobial peptides camps. catalyzes transfer palmitate chain 16 0 sn-1 position glycerophospholipid free hydroxyl group r-3- hydroxymyristate chain position 2 lipid endotoxin	pagp required both biosynthesi	2
+Cluster specific core	M	outer membrane	outer membrane	77
+Cluster specific core	M	lipid core-o-antigen ligase	lipid core-o-antigen ligase	1
+Cluster specific core	M	colanic acid biosynthesis acetyltransferase wcab	colanic acid biosynthesis acet	2
+Cluster specific core	M	fimbrial usher	fimbrial usher	1
+Cluster specific core	M	outer membrane porin	outer membrane porin	1
+Cluster specific core	M	outer membrane autotransporter	outer membrane autotransporter	30
+Cluster specific core	M	glucarate dehydratase	glucarate dehydratase	2
+Cluster specific core	M	glycosyl transferases group 1	glycosyl transferases group 1	2
+Cluster specific core	M	abc transporter	abc transporter	1
+Cluster specific core	M	glycosyl transferase	glycosyl transferase	9
+Cluster specific core	M	polysaccharide biosynthesis	polysaccharide biosynthesis	1
+Cluster specific core	M	cog glycosyl transferase 2	cog glycosyl transferase 2	1
+Cluster specific core	M	wall formation	wall formation	1
+Cluster specific core	M	yd repeat	yd repeat	27
+Cluster specific core	M	outer membrane autotransporter barrel	outer membrane autotransporter	9
+Cluster specific core	M	tail assembly	tail assembly	1
+Cluster specific core	M	cog outer membrane autotransporter	cog outer membrane autotranspo	3
+Cluster specific core	L	iscro1 transposase	iscro1 transposase	1
+Cluster specific core	L	cog antirestriction	cog antirestriction	2
+Cluster specific core	L	resolvase domain-containing	resolvase domain-containing	1
+Cluster specific core	L	repair radc	repair radc	2
+Cluster specific core	L	pronog methylase	pronog methylase	1
+Cluster specific core	L	cog transposase	cog transposase	1
+Cluster specific core	L	dna-binding prophage	dna-binding prophage	2
+Cluster specific core	L	dnab-like helicase n terminal	dnab-like helicase n terminal	1
+Cluster specific core	L	type 1 fimbriae regulatory	type 1 fimbriae regulatory	1
+Cluster specific core	L	crispr-associated csy2	crispr-associated csy2	2
+Cluster specific core	L	crispr-associated cas5	crispr-associated cas5	1
+Cluster specific core	L	pronog integrase	pronog integrase	1
+Cluster specific core	L	dna-invertase lambdoid prophage	dna-invertase lambdoid prophag	1
+Cluster specific core	L	replication o	replication o	1
+Cluster specific core	L	pyrimidine deoxynucleoside triphosphate pyrophosphohydrolase	pyrimidine deoxynucleoside tri	1
+Cluster specific core	L	cog represses number genes involved response damage sos response reca lexa. presence single-stranded reca interacts lexa causing autocatalytic cleavage disrupts dna-binding part lexa leading derepression sos regulon eventually repair	cog represses number genes inv	1
+Cluster specific core	L	gdp-mannose mannosyl hydrolase	gdp-mannose mannosyl hydrolase	1
+Cluster specific core	L	cog retrotransposon	cog retrotransposon	1
+Cluster specific core	L	mule transposase	mule transposase	1
+Cluster specific core	L	transposase is605 orfb	transposase is605 orfb	2
+Cluster specific core	L	phage integrase	phage integrase	2
+Cluster specific core	L	rna-directed polymerase	rna-directed polymerase	1
+Cluster specific core	L	ybcn lambdoid dlp12 prophage regi	ybcn lambdoid dlp12 prophage r	1
+Cluster specific core	L	conjugative transfer trai	conjugative transfer trai	1
+Cluster specific core	L	ispsy5 orf1	ispsy5 orf1	1
+Cluster specific core	L	cytosine-specific methyltransferase	cytosine-specific methyltransf	1
+Cluster specific core	L	primosomal replication n	primosomal replication n	1
+Cluster specific core	L	dead deah box helicase	dead deah box helicase	3
+Cluster specific core	L	transcriptional regulator arac	transcriptional regulator arac	1
+Cluster specific core	L	catalyzes formation phosphodiester linkages between 5-phosphoryl 3-hydroxyl groups double-stranded using nad coenzyme energy source reaction	catalyzes formation phosphodie	2
+Cluster specific core	L	crispr clustered regularly interspaced short palindromic repeat adaptive immune provides protection against mobile genetic elements viruses transposable elements conjugative plasmids. crispr clusters contain sequences complementary antecedent mobile elements target invading nucleic acids. crispr clusters transcribed processed crispr rna crrna. acts dsdna endonuclease. involved integration spacer crispr cassette	crispr clustered regularly int	2
+Cluster specific core	L	unknown duf303	unknown duf303	1
+Cluster specific core	L	reverse transcriptase rna-dependent polymerase	reverse transcriptase rna-depe	1
+Cluster specific core	L	crispr-associated cse1	crispr-associated cse1	1
+Cluster specific core	L	atp-dependent rna helicase dbpa	atp-dependent rna helicase dbp	2
+Cluster specific core	L	transposase is116 is110 is902	transposase is116 is110 is902	2
+Cluster specific core	L	cog helicase	cog helicase	1
+Cluster specific core	O	serine protease	serine protease	1
+Cluster specific core	O	adp-ribosylation crystallin j1	adp-ribosylation crystallin j1	2
+Cluster specific core	O	involved biogenesis tora. acts tora before insertion molybdenum cofactor result probably favors conformation apoenzyme competent acquiring cofactor	involved biogenesis tora. acts	3
+Cluster specific core	O	glutathione s-transferase	glutathione s-transferase	4
+Cluster specific core	O	mg chelatase chli	mg chelatase chli	2
+Cluster specific core	O	heat shock	heat shock	1
+Cluster specific core	O	protease act efficient specific deubiquitinating enzyme vitro. possess desumoylating deneddylating activities. physiological substrate	protease act efficient specifi	4
+Cluster specific core	O	part elfadcg-ycbuvf fimbrial operon promotes adhesion bacteria different abiotic surfaces. required biogenesis elfa fimbriae	part elfadcg-ycbuvf fimbrial o	2
+Cluster specific core	O	required maturation urease via functional incorporation urease nickel metallocenter	required maturation urease via	1
+Cluster specific core	O	atp-dependent clp protease proteolytic	atp-dependent clp protease pro	2
+Cluster specific core	O	xdhc coxi	xdhc coxi	1
+Cluster specific core	O	fimbrial chaperone	fimbrial chaperone	3
+Cluster specific core	N	flagellar biosynthetic flhb	flagellar biosynthetic flhb	1
+Cluster specific core	N	flagellar basal-body rod flgc	flagellar basal-body rod flgc	2
+Cluster specific core	N	flagellar basal-body rod flgg	flagellar basal-body rod flgg	2
+Cluster specific core	N	flagellar basal-body rod flgf	flagellar basal-body rod flgf	1
+Cluster specific core	N	flagellar biosynthesis flha	flagellar biosynthesis flha	2
+Cluster specific core	N	m ring actively involved energy transduction	m ring actively involved energ	2
+Cluster specific core	N	type ii iii secretion	type ii iii secretion	1
+Cluster specific core	N	outer membrane usher	outer membrane usher	1
+Cluster specific core	N	type iii secretion	type iii secretion	1
+Cluster specific core	N	flagellar hook-associated	flagellar hook-associated	7
+Cluster specific core	N	flagellar basal-body rod	flagellar basal-body rod	5
+Cluster specific core	N	methyl-accepting chemotaxis	methyl-accepting chemotaxis	4
+Cluster specific core	N	flagellar motor	flagellar motor	2
+Cluster specific core	Q	hemolysin-type calcium-binding	hemolysin-type calcium-binding	1
+Cluster specific core	Q	amidohydrolase 2	amidohydrolase 2	1
+Cluster specific core	Q	siderophore biosynthesis	siderophore biosynthesis	1
+Cluster specific core	Q	lytic enzyme	lytic enzyme	1
+Cluster specific core	Q	alkyl sulfatase	alkyl sulfatase	1
+Cluster specific core	Q	4-hydroxyphenylacetate 3-monooxygenase oxygenase	4-hydroxyphenylacetate 3-monoo	1
+Cluster specific core	Q	peptide synthetase	peptide synthetase	1
+Cluster specific core	P	gluconate transporter	gluconate transporter	2
+Cluster specific core	P	drug resistance transporter bcr cfla subfamily	drug resistance transporter bc	2
+Cluster specific core	P	periplasmic binding component pn transporter	periplasmic binding component 	2
+Cluster specific core	P	abc transporter	abc transporter	17
+Cluster specific core	P	phosphonate abc transporter	phosphonate abc transporter	1
+Cluster specific core	P	drug resistance transporter emrb qaca subfamily	drug resistance transporter em	2
+Cluster specific core	P	integral membrane terc	integral membrane terc	1
+Cluster specific core	P	abc transporter atp-binding	abc transporter atp-binding	1
+Cluster specific core	P	atp-binding component transport	atp-binding component transpor	1
+Cluster specific core	P	phosphonate metabolism phnm	phosphonate metabolism phnm	1
+Cluster specific core	P	efflux transporter rnd mfp	efflux transporter rnd mfp	2
+Cluster specific core	P	outer membrane receptor fepa	outer membrane receptor fepa	2
+Cluster specific core	P	mg2 transport atpase	mg2 transport atpase	2
+Cluster specific core	P	cation diffusion facilitator transporter	cation diffusion facilitator t	1
+Cluster specific core	P	putrescine abc transporter	putrescine abc transporter	2
+Cluster specific core	P	choline carnitine betaine transporter	choline carnitine betaine tran	2
+Cluster specific core	P	phosphate abc transporter	phosphate abc transporter	2
+Cluster specific core	P	glutathione-regulated potassium-efflux	glutathione-regulated potassiu	3
+Cluster specific core	P	part abc transporter complex lsrabcd involved autoinducer 2 ai-2 import. binds ai-2 delivers lsrc lsrd permeases	part abc transporter complex l	2
+Cluster specific core	P	transporter permease	transporter permease	1
+Cluster specific core	P	glycerol-3-phosphate transporter periplasmic binding	glycerol-3-phosphate transport	1
+Cluster specific core	P	sulfatase yidj	sulfatase yidj	3
+Cluster specific core	P	part abc transporter complex rbsabcd involved ribose import. responsible energy coupling transport	part abc transporter complex r	3
+Cluster specific core	P	one components high-affinity atp-driven potassium transport kdp catalyzes hydrolysis atp coupled exchange hydrogen potassium ions	one components high-affinity a	2
+Cluster specific core	P	trat complement resistance	trat complement resistance	1
+Cluster specific core	S	stage ii sporulation	stage ii sporulation	1
+Cluster specific core	S	oxidoreductase ygcw	oxidoreductase ygcw	1
+Cluster specific core	S	band 7	band 7	3
+Cluster specific core	S	unknown duf2574	unknown duf2574	1
+Cluster specific core	S	unknown duf1076	unknown duf1076	1
+Cluster specific core	S	bacteriophage n4 adsorption b	bacteriophage n4 adsorption b	5
+Cluster specific core	S	bacterial unknown duf883	bacterial unknown duf883	1
+Cluster specific core	S	enterobacterial putative membrane duf943	enterobacterial putative membr	1
+Cluster specific core	S	unknown duf3296	unknown duf3296	1
+Cluster specific core	S	major tail	major tail	1
+Cluster specific core	S	biofilm formation	biofilm formation	1
+Cluster specific core	S	host-nuclease inhibitor gam	host-nuclease inhibitor gam	1
+Cluster specific core	S	host specificity	host specificity	12
+Cluster specific core	S	unknown duf1479	unknown duf1479	2
+Cluster specific core	S	upf0141 inner membrane yhbx	upf0141 inner membrane yhbx	3
+Cluster specific core	S	uncharacterised acr cog2135	uncharacterised acr cog2135	2
+Cluster specific core	S	unknown duf1281	unknown duf1281	2
+Cluster specific core	S	plasmid maintenance antidote xre	plasmid maintenance antidote x	1
+Cluster specific core	S	carboxymuconolactone decarboxylase	carboxymuconolactone decarboxy	1
+Cluster specific core	S	fimbrial-like adhesin	fimbrial-like adhesin	5
+Cluster specific core	S	nipsnap containing	nipsnap containing	1
+Cluster specific core	S	unknown duf2544	unknown duf2544	4
+Cluster specific core	S	type vi secretion-associated vca0119	type vi secretion-associated v	1
+Cluster specific core	S	fad binding	fad binding	2
+Cluster specific core	S	s-adenosyl-l-methionine hydroxide adenosyltransferase	s-adenosyl-l-methionine hydrox	2
+Cluster specific core	S	phage derived gp49-like duf891	phage derived gp49-like duf891	1
+Cluster specific core	S	membrane transport	membrane transport	3
+Cluster specific core	S	phage tail tape measure	phage tail tape measure	1
+Cluster specific core	S	phage-related minor tail	phage-related minor tail	1
+Cluster specific core	S	dmso reductase anchor	dmso reductase anchor	2
+Cluster specific core	S	nog insecticidal toxin complex	nog insecticidal toxin complex	1
+Cluster specific core	S	type vi secretion-associated impa	type vi secretion-associated i	1
+Cluster specific core	S	unknown duf1524	unknown duf1524	3
+Cluster specific core	S	unknown duf1833	unknown duf1833	1
+Cluster specific core	S	nitrilase cyanide hydratase apolipoprotein n-acyltransferase	nitrilase cyanide hydratase ap	2
+Cluster specific core	S	pronog bacteriophage	pronog bacteriophage	1
+Cluster specific core	S	head-tail joining	head-tail joining	1
+Cluster specific core	S	abc transporter	abc transporter	6
+Cluster specific core	S	glyoxylate carboligase	glyoxylate carboligase	4
+Cluster specific core	S	unknown duf3300	unknown duf3300	2
+Cluster specific core	S	unknown duf1795	unknown duf1795	1
+Cluster specific core	S	ybak ebsc	ybak ebsc	1
+Cluster specific core	S	unknown duf1019	unknown duf1019	2
+Cluster specific core	S	unknown duf3168	unknown duf3168	1
+Cluster specific core	S	erfk srfk	erfk srfk	2
+Cluster specific core	S	virulence scie type	virulence scie type	1
+Cluster specific core	S	fusaric acid resistance	fusaric acid resistance	2
+Cluster specific core	S	espa-like secreted	espa-like secreted	1
+Cluster specific core	S	cellulose synthase	cellulose synthase	7
+Cluster specific core	S	nucleoside 2-deoxyribosyltransferase	nucleoside 2-deoxyribosyltrans	1
+Cluster specific core	S	tape measure	tape measure	8
+Cluster specific core	S	inner membrane yidi	inner membrane yidi	1
+Cluster specific core	S	required use extracellular nutrient	required use extracellular nut	1
+Cluster specific core	S	unknown duf1643	unknown duf1643	1
+Cluster specific core	S	unknown duf550	unknown duf550	1
+Cluster specific core	S	inner membrane	inner membrane	19
+Cluster specific core	S	radical sam domain-containing	radical sam domain-containing	2
+Cluster specific core	S	patatin-like phospholipase	patatin-like phospholipase	2
+Cluster specific core	S	cellulose synthase operon yhju	cellulose synthase operon yhju	4
+Cluster specific core	S	frv operon regulatory	frv operon regulatory	2
+Cluster specific core	S	pronog plasma membrane h -transporting two-sector atpase	pronog plasma membrane h -tran	2
+Cluster specific core	S	unknown duf1311	unknown duf1311	1
+Cluster specific core	S	had-superfamily hydrolase subfamily ia variant 3	had-superfamily hydrolase subf	1
+Cluster specific core	S	unknown duf3383	unknown duf3383	1
+Cluster specific core	S	phosphoadenosine phosphosulfate reductase	phosphoadenosine phosphosulfat	1
+Cluster specific core	S	wgr domain-containing	wgr domain-containing	1
+Cluster specific core	S	influences nickel cobalt homeostasis. act modulating rcna-mediated export ions avoid excess efflux. involved nickel import bind nickel cobalt ions directly	influences nickel cobalt homeo	1
+Cluster specific core	S	type vi secretion effector hcp1	type vi secretion effector hcp	4
+Cluster specific core	S	penicillin amidase	penicillin amidase	3
+Cluster specific core	S	unknown duf955	unknown duf955	1
+Cluster specific core	S	replicase ec 2.7	replicase ec 2.7	2
+Cluster specific core	S	unknown duf551	unknown duf551	2
+Cluster specific core	S	recombination ninb	recombination ninb	1
+Cluster specific core	S	leucine rich repeat	leucine rich repeat	7
+Cluster specific core	S	sodium dicarboxylate symporter	sodium dicarboxylate symporter	2
+Cluster specific core	S	mannosyl-3-phosphoglycerate phosphatase	mannosyl-3-phosphoglycerate ph	2
+Cluster specific core	S	plasmid stabilisation	plasmid stabilisation	1
+Cluster specific core	S	tail assembly	tail assembly	1
+Cluster specific core	S	sulfuric ester hydrolase activity	sulfuric ester hydrolase activ	1
+Cluster specific core	S	relaxasemobilisation nuclease	relaxasemobilisation nuclease	1
+Cluster specific core	S	internalization-related competence comec rec2	internalization-related compet	2
+Cluster specific core	S	large repetitive	large repetitive	4
+Cluster specific core	S	release factor h-coupled rctb	release factor h-coupled rctb	1
+Cluster specific core	S	inner membrane lipoprotein	inner membrane lipoprotein	3
+Cluster specific core	S	extracellular solute-binding 5	extracellular solute-binding 5	2
+Cluster specific core	S	exodeoxyribonuclease viii	exodeoxyribonuclease viii	1
+Cluster specific core	S	predicted nucleotidyltransferase	predicted nucleotidyltransfera	3
+Cluster specific core	S	uncharacterized yjej	uncharacterized yjej	2
+Cluster specific core	S	tail fiber assembly	tail fiber assembly	2
+Cluster specific core	S	unknown duf1391	unknown duf1391	1
+Cluster specific core	S	specifically methylates cytosine position 1962 m5c1962 23s rrna	specifically methylates cytosi	3
+Cluster specific core	S	unknown duf695	unknown duf695	1
+Cluster specific core	S	uncharacterized conserved bacteria duf2136	uncharacterized conserved bact	1
+Cluster specific core	S	polarity suppression	polarity suppression	1
+Cluster specific core	S	capsule biosynthesis phosphatase	capsule biosynthesis phosphata	1
+Cluster specific core	S	cellular component movement	cellular component movement	1
+Cluster specific core	S	phage terminase large	phage terminase large	2
+Cluster specific core	S	bacteriocin immunity	bacteriocin immunity	1
+Cluster specific core	S	unknown duf2384	unknown duf2384	1
+Cluster specific core	S	uncharacterized alphabeta hydrolase duf2235	uncharacterized alphabeta hydr	2
+Cluster specific core	S	type vi secretion	type vi secretion	13
+Cluster specific core	S	atpase associated various cellular activities aaa5	atpase associated various cell	1
+Cluster specific core	S	pronog transferase hexapeptide repeat containing	pronog transferase hexapeptide	1
+Cluster specific core	S	pronog tir	pronog tir	1
+Cluster specific core	S	bacterial unknown duf977	bacterial unknown duf977	1
+Cluster specific core	S	inhibits activity g-type lysozyme confers increased lysozyme tolerance bacterium	inhibits activity g-type lysoz	1
+Cluster specific core	S	surface-exposed virulence	surface-exposed virulence	2
+Cluster specific core	S	mammalian entry related	mammalian entry related	1
+Cluster specific core	S	alpha beta superfamily hydrolase	alpha beta superfamily hydrola	1
+Cluster specific core	S	uncharacterized yegk	uncharacterized yegk	2
+Cluster specific core	S	n-acetylglucosaminylphosphatidylinositol deacetylase	n-acetylglucosaminylphosphatid	1
+Cluster specific core	S	tail length tape measure	tail length tape measure	1
+Cluster specific core	S	unknown duf497	unknown duf497	1
+Cluster specific core	S	repressor metj	repressor metj	1
+Cluster specific core	S	atp cobialamin adenosyltransferase	atp cobialamin adenosyltransfe	1
+Cluster specific core	S	unknown duf968	unknown duf968	2
+Cluster specific core	S	abc transporter atp-binding	abc transporter atp-binding	1
+Cluster specific core	S	atp-binding yght	atp-binding yght	1
+Cluster specific core	S	accessory colonization factor acfd	accessory colonization factor 	1
+Cluster specific core	S	uncharacterized yfaa	uncharacterized yfaa	2
+Cluster specific core	S	sel1 repeat	sel1 repeat	4
+Cluster specific core	S	unknown duf2787	unknown duf2787	1
+Cluster specific core	S	unknown duf1073	unknown duf1073	3
+Cluster specific core	S	phage portal lambda	phage portal lambda	3
+Cluster specific core	S	uncharacterized ygjq	uncharacterized ygjq	1
+Cluster specific core	S	abc transporter permease	abc transporter permease	2
+Cluster specific core	S	phage head-tail adaptor	phage head-tail adaptor	1
+Cluster specific core	S	tail component prophage cp-933k	tail component prophage cp-933	3
+Cluster specific core	S	phage major capsid hk97	phage major capsid hk97	2
+Cluster specific core	S	alpha helix chain	alpha helix chain	1
+Cluster specific core	S	conserved inner membrane	conserved inner membrane	5
+Cluster specific core	S	side tail fiber homolog lambdoid prophage	side tail fiber homolog lambdo	2
+Cluster specific core	S	nucleotidyl transferase unknown duf1814	nucleotidyl transferase unknow	1
+Cluster specific core	S	unknown duf3584	unknown duf3584	1
+Cluster specific core	S	galactoside o-acetyltransferase	galactoside o-acetyltransferas	1
+Cluster specific core	S	large extracellular alpha-helical	large extracellular alpha-heli	5
+Cluster specific core	S	unknown duf2766	unknown duf2766	1
+Cluster specific core	S	glutamate mutase mutl	glutamate mutase mutl	1
+Cluster specific core	S	fimbrial-like ydeq	fimbrial-like ydeq	2
+Cluster specific core	S	ankyrin repeat	ankyrin repeat	8
+Cluster specific core	S	unknown duf3289	unknown duf3289	2
+Cluster specific core	S	baseplate j-like	baseplate j-like	2
+Cluster specific core	S	type vi secretion evpb vca0108	type vi secretion evpb vca0108	1
+Cluster specific core	S	involved fimbrial chaperoned	involved fimbrial chaperoned	1
+Cluster specific core	S	death curing	death curing	1
+Cluster specific core	S	significant matches	significant matches	1
+Cluster specific core	S	glutathione-regulated potassium-efflux ancillary kefg	glutathione-regulated potassiu	2
+Cluster specific core	S	pentapeptide repeat-containing	pentapeptide repeat-containing	1
+Cluster specific core	S	inner membrane yiaa	inner membrane yiaa	4
+Cluster specific core	S	extradiol ring-cleavage dioxygenase class iii	extradiol ring-cleavage dioxyg	2
+Cluster specific core	S	l-ascorbate 6-phosphate lactonase	l-ascorbate 6-phosphate lacton	1
+Cluster specific core	S	uncharacterized conserved bacteria duf2213	uncharacterized conserved bact	1
+Cluster specific core	S	hipa n-terminal	hipa n-terminal	1
+Cluster specific core	S	unknown duf1627	unknown duf1627	2
+Cluster specific core	S	esterase ypfh	esterase ypfh	1
+Cluster specific core	S	residues 9 151 151 98.60 pct identical residues 1 143 143 genpept.129 gb aak00476.1 af200692	residues 9 151 151 98.60 pct i	2
+Cluster specific core	S	unknown duf2726	unknown duf2726	2
+Cluster specific core	S	flagellar flhe	flagellar flhe	1
+Cluster specific core	S	terminase large	terminase large	6
+Cluster specific core	S	atp-binding yghr	atp-binding yghr	1
+Cluster specific core	S	tail fiber	tail fiber	8
+Cluster specific core	S	cupin 2 conserved barrel	cupin 2 conserved barrel	1
+Cluster specific core	S	type-1 fimbrial	type-1 fimbrial	1
+Cluster specific core	S	k13735 adhesin invasin	k13735 adhesin invasin	15
+Cluster specific core	S	p-loop unknown duf2791	p-loop unknown duf2791	2
+Cluster specific core	S	fimbrillin matb	fimbrillin matb	1
+Cluster specific core	S	lipase class 3	lipase class 3	1
+Cluster specific core	S	sel1 repeat-containing	sel1 repeat-containing	1
+Cluster specific core	S	xanthine uracil	xanthine uracil	1
+Cluster specific core	S	unknown duf3440	unknown duf3440	3
+Cluster specific core	S	unknown duf3442	unknown duf3442	3
+Cluster specific core	S	cog paar repeat-containing	cog paar repeat-containing	1
+Cluster specific core	S	enterobacterial unknown duf957	enterobacterial unknown duf957	1
+Cluster specific core	S	phage hk97 gp10	phage hk97 gp10	1
+Cluster specific core	S	pronog rna ligase	pronog rna ligase	2
+Cluster specific core	S	pronog sugar o-acyltransferase sialic acid o-acetyltransferase neud	pronog sugar o-acyltransferase	1
+Cluster specific core	S	tail sheath	tail sheath	1
+Cluster specific core	S	sdia-regulated domain-containing	sdia-regulated domain-containi	1
+Cluster specific core	S	type vi secretion vca0111	type vi secretion vca0111	2
+Cluster specific core	S	phage capsid	phage capsid	1
+Cluster specific core	S	type vi secretion vca0114	type vi secretion vca0114	3
+Cluster specific core	S	uncharacterized yehq	uncharacterized yehq	2
+Cluster specific core	S	rhs element vgr	rhs element vgr	6
+Cluster specific core	S	transmembrane pair	transmembrane pair	1
+Cluster specific core	S	inner membrane ynji	inner membrane ynji	3
+Cluster specific core	S	phage lysis regulatory lysb	phage lysis regulatory lysb	1
+Cluster specific core	S	unknown duf2612	unknown duf2612	1
+Cluster specific core	S	flavin reductase fmn-binding	flavin reductase fmn-binding	1
+Cluster specific core	U	pathway e	pathway e	2
+Cluster specific core	U	transport permease	transport permease	1
+Cluster specific core	U	outer membrane autotransporter	outer membrane autotransporter	30
+Cluster specific core	U	type iv pilin biogenesis	type iv pilin biogenesis	2
+Cluster specific core	U	conjugal transfer relaxosome component traj	conjugal transfer relaxosome c	1
+Cluster specific core	U	involved type ii secretion t2ss formerly general secretion pathway gsp export proteins	involved type ii secretion t2s	1
+Cluster specific core	U	outer membrane porin	outer membrane porin	2
+Cluster specific core	U	type iv secretory pathway vird2 component	type iv secretory pathway vird	1
+Cluster specific core	U	outer membrane	outer membrane	33
+Cluster specific core	U	type iii secretion	type iii secretion	1
+Cluster specific core	U	conjugal transfer trbj	conjugal transfer trbj	1
+Cluster specific core	U	fimbrial-like yfcp	fimbrial-like yfcp	2
+Cluster specific core	U	cbld pilus biogenesis initiator	cbld pilus biogenesis initiato	1
+Cluster specific core	U	outer membrane usher	outer membrane usher	1
+Cluster specific core	U	surface presentation antigens spap	surface presentation antigens 	1
+Cluster specific core	U	pilv type iv pilus minor pilin shufflon	pilv type iv pilus minor pilin	1
+Cluster specific core	U	filamentous hemagglutinin	filamentous hemagglutinin	1
+Cluster specific core	U	conjugative transfer trag	conjugative transfer trag	1
+Cluster specific core	U	conjugative transfer trae	conjugative transfer trae	1
+Cluster specific core	U	antigen 43	antigen 43	3
+Cluster specific core	U	flp operon c	flp operon c	1
+Cluster specific core	U	cog outer membrane autotransporter	cog outer membrane autotranspo	3
+Cluster specific core	U	outer membrane autotransporter barrel	outer membrane autotransporter	9
+Cluster specific core	U	type ii iii secretion	type ii iii secretion	1
+Cluster specific core	U	fimbrial-like yadc	fimbrial-like yadc	9
+Cluster specific core	U	atp-binding component transport	atp-binding component transpor	11
+Cluster specific core	U	involved secretory pathway responsible surface presentation determinants needed entry salmonella species mammalian cells	involved secretory pathway res	1
+Cluster specific core	U	surface presentation antigens spas	surface presentation antigens 	1
+Cluster specific core	T	nitrate nitrite sensor	nitrate nitrite sensor	3
+Cluster specific core	T	diguanylate cyclase	diguanylate cyclase	23
+Cluster specific core	T	bifunctional enzyme phosphorylate dephosphorylate isocitrate dehydrogenase idh specific serine residue. regulatory mechanism enables bacteria bypass krebs cycle via glyoxylate shunt response source carbon. bacteria grown glucose idh fully active unphosphorylated grown acetate ethanol activity idh declines drastically concomitant phosphorylation	bifunctional enzyme phosphoryl	2
+Cluster specific core	T	part 2 seems dedicated regulate transcription csgd. csdg turn regulates expression adhesive curli fimbriae genes csgefg csgbac ymad adra yaic. activity antagonized phosphodiesterase gmr ycir. vitro weak diguanylate cyclase activity. cyclic-di-gmp second messenger controls surface-associated traits bacteria	part 2 seems dedicated regulat	1
+Cluster specific core	T	membrane ylif	membrane ylif	2
+Cluster specific core	T	phage shock	phage shock	1
+Cluster specific core	T	transcriptional regulatory	transcriptional regulatory	2
+Cluster specific core	T	swimming returnes normal residues 206-207 both mutated ala. overexpression leads reduction flagellar abundance 20-fold increase c-di- gmp levels vivo. required aminoglycoside-mediated induction biofilm formation plays lesser role biofilm production response classes translation inhibitors. c-di-gmp produced enzyme up-regulates poly-glcnac production well biofilm synthesis pgad although c-di-gmp probably main inducing principle. cyclic-di- gmp second messenger controls surface-associated traits bacteria	swimming returnes normal resid	1
+Cluster specific core	T	diguanylate cyclase phosphodiesterase	diguanylate cyclase phosphodie	8
+Cluster specific core	T	serine kinase	serine kinase	1
+Cluster specific core	T	two component transcriptional regulator luxr	two component transcriptional 	1
+Cluster specific core	T	histidine kinase	histidine kinase	1
+Cluster specific core	T	methyl-accepting chemotaxis sensory transducer pas pac sensor	methyl-accepting chemotaxis se	2
+Cluster specific core	T	serine threonine phosphatase 1	serine threonine phosphatase 1	1
+Cluster specific core	T	diguanylate phosphodiesterase	diguanylate phosphodiesterase	1
+Cluster specific core	T	methyl-accepting chemotaxis	methyl-accepting chemotaxis	6
+Cluster specific core	T	blockage overcome subsequent expression antitoxin yafn. overexpression causes cleavage number mrnas ribosome-dependent fashion. yafo binding 50s ribosomal translation complex induces mrna cleavage 3 region protected ribosome	blockage overcome subsequent e	1
+Cluster specific core	T	response regulator receiver	response regulator receiver	1
+Cluster specific core	T	serine threonine phosphatase	serine threonine phosphatase	5
+Cluster specific core	W	collagen type ii alpha 1	collagen type ii alpha 1	2
+Cluster specific core	V	type site-specific deoxyribonuclease	type site-specific deoxyribonu	1
+Cluster specific core	V	type restriction enzyme r n terminus hsdrn	type restriction enzyme r n te	1
+Cluster specific core	V	pronog type restriction modification specificity	pronog type restriction modifi	1
+Cluster specific core	V	acriflavin resistance	acriflavin resistance	1
+Cluster specific core	V	type restriction-modification s	type restriction-modification 	2
+Cluster specific core	V	type iii restriction	type iii restriction	1
+Cluster specific core	V	mate efflux	mate efflux	4
+Cluster specific core	V	type ii restriction enzyme methylase	type ii restriction enzyme met	1
+Cluster specific core	V	multidrug resistance mdtn	multidrug resistance mdtn	1
+Cluster specific core	V	type restriction	type restriction	5
+Cluster specific core	V	part abc transporter complex macab involved macrolide export. transmembrane domains tmd form pore inner membrane atp-binding nbd responsible energy generation	part abc transporter complex m	2
+Cluster specific core	V	restriction modification specificity	restriction modification speci	4
+Cluster specific core	V	type restriction enzyme s	type restriction enzyme s	1
+Cluster specific core	V	pronog restriction endonuclease	pronog restriction endonucleas	1

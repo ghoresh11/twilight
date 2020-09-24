@@ -1,0 +1,12 @@
+﻿Main Class,Class,Colour,Frequency,New_name,Main_colour
+Core,Cluster specific core,#542788,High,Lineage specific core,#d7d7f6
+Core,Multi-cluster core,#8c96c6,High,Multi-lineage core,#d7d7f5
+Core,Population core,#08519c,High,Collection core,#d7d7f4
+Intermediate,Cluster specific intermediate,#fa9fb5,Intermediate,Lineage specific intermediate,#ffd5e5
+Intermediate,Multi-cluster intermediate,#c51b8a,Intermediate,Multi-lineage intermediate,#ffd5e5
+Rare,Cluster specific rare,#fec44f,Low,Lineage specific rare,#ffe6d5
+Rare,Multi-cluster rare,#d95f0e,Low,Multi-lineage rare,#ffe6d6
+Varied,Intermediate and rare,#edf8e9,Low,Intermediate and rare,#dbe3de
+Varied,"Core, intermediate and rare",#bae4b3,Intermediate,"Core, intermediate and rare",#dbe3de
+Varied,Core and rare,#74c476,Intermediate,Core and rare,#dbe3de
+Varied,Core and intermediate,#238b45,High,Core and intermediate,#dbe3de

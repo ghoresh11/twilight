@@ -1,0 +1,24 @@
+﻿COG,Desc,Title,Col
+D,Cell cycle control and mitosis,CELLULAR PROCESSES AND SIGNALING,#E0ECF4
+M,Cell wall/membrane/envelop biogenesis,CELLULAR PROCESSES AND SIGNALING,#BFD3E6
+N,Cell motility,CELLULAR PROCESSES AND SIGNALING,#9EBCDA
+O,"Post-translational modification, protein turnover, chaperone functions",CELLULAR PROCESSES AND SIGNALING,#8C6BB1
+T,Signal Transduction,CELLULAR PROCESSES AND SIGNALING,#6E016B
+U,Intracellular trafficing and secretion,CELLULAR PROCESSES AND SIGNALING,#BDD7E7
+Z,Cytoskeleton,CELLULAR PROCESSES AND SIGNALING,#2171B5
+V,Defense mechanisms,CELLULAR PROCESSES AND SIGNALING,#084594
+A,RNA processing and modification,INFORMATION STORAGE AND PROCESSING,#C7E9C0
+B,Chromatin Structure and dynamics,INFORMATION STORAGE AND PROCESSING,#A1D99B
+J,Tranlsation,INFORMATION STORAGE AND PROCESSING,#74C476
+K,Transcription,INFORMATION STORAGE AND PROCESSING,#31A354
+L,Replication and repair,INFORMATION STORAGE AND PROCESSING,#006D2C
+C,Energy production and conversion,METABOLISM,#FEE6CE
+E,Amino Acid metabolis and transport,METABOLISM,#FDD0A2
+F,Nucleotide metabolism and transport,METABOLISM,#FDAE6B
+G,Carbohydrate metabolism and transport,METABOLISM,#FD8D3C
+H,Coenzyme metabolis,METABOLISM,#F16913
+I,Lipid metabolism,METABOLISM,#D94801
+P,Inorganic ion transport and metabolism,METABOLISM,#A63603
+Q,Secondary Structure,METABOLISM,#7F2704
+not_found,Unmatched,POORLY CHARACTERIZED,#F0F0F0
+S,Function Unknown,POORLY CHARACTERIZED,#D9D9D9

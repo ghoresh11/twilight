@@ -1,0 +1,12 @@
+Group.1	x
+Cluster specific core	25
+Cluster specific intermediate	20
+Cluster specific rare	5
+Core and intermediate	1823.5
+Core and rare	69
+Core, intermediate and rare	633
+Intermediate and rare	179
+Multi-cluster core	502
+Multi-cluster intermediate	9
+Multi-cluster rare	16
+Population core	1426

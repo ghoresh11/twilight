@@ -1,0 +1,513 @@
+Class	COG	Word	Label	Count
+Cluster specific intermediate	C	iron-containing alcohol dehydrogenase	iron-containing alcohol dehydr	1
+Cluster specific intermediate	C	d-lactate dehydrogenase	d-lactate dehydrogenase	1
+Cluster specific intermediate	C	nadh ubiquinone oxidoreductase 20 kda	nadh ubiquinone oxidoreductase	1
+Cluster specific intermediate	C	s-hydroxymethylglutathione dehydrogenase class iii alcohol dehydrogenase	s-hydroxymethylglutathione deh	1
+Cluster specific intermediate	C	electron transfer flavoprotein-ubiquinone oxidoreductase	electron transfer flavoprotein	2
+Cluster specific intermediate	C	iron-sulfur cluster binding	iron-sulfur cluster binding	1
+Cluster specific intermediate	C	oxidase ii	oxidase ii	2
+Cluster specific intermediate	C	coenzyme f420 hydrogenasedehydrogenase beta n-term	coenzyme f420 hydrogenasedehyd	1
+Cluster specific intermediate	C	catalyzes cleavage n-acetylneuraminic acid sialic acid form pyruvate n-acetylmannosamine via schiff base intermediate	catalyzes cleavage n-acetylneu	1
+Cluster specific intermediate	C	pyridine nucleotide-disulfide oxidoreductase	pyridine nucleotide-disulfide 	1
+Cluster specific intermediate	C	hydrogenase 4 fe-s	hydrogenase 4 fe-s	1
+Cluster specific intermediate	C	ubiquinol oxidase	ubiquinol oxidase	2
+Cluster specific intermediate	C	phsc homolog	phsc homolog	1
+Cluster specific intermediate	E	propanediol utilization	propanediol utilization	1
+Cluster specific intermediate	E	glyoxalase bleomycin resistance dioxygenase	glyoxalase bleomycin resistanc	1
+Cluster specific intermediate	E	serine acetyltransferase	serine acetyltransferase	1
+Cluster specific intermediate	E	converts glutamate gamma-aminobutyrate gaba consuming one intracellular proton reaction. gad helps maintain near-neutral intracellular ph cells exposed extremely acidic conditions. ability survive transit through acidic conditions stomach essential successful colonization mammalian host commensal pathogenic bacteria	converts glutamate gamma-amino	1
+Cluster specific intermediate	E	d-serine deaminase	d-serine deaminase	1
+Cluster specific intermediate	E	aminotransferase class ii	aminotransferase class ii	1
+Cluster specific intermediate	E	igps catalyzes conversion prfar glutamine igp aicar glutamate. hish provides glutamine amidotransferase activity produces ammonia necessary hisf synthesis igp aicar	igps catalyzes conversion prfa	1
+Cluster specific intermediate	E	eama-like transporter	eama-like transporter	1
+Cluster specific intermediate	E	inner membrane transporter yjem	inner membrane transporter yje	1
+Cluster specific intermediate	E	degt dnrj eryc1 strs aminotransferase	degt dnrj eryc1 strs aminotran	1
+Cluster specific intermediate	E	aspartate racemase	aspartate racemase	1
+Cluster specific intermediate	E	catalyzes reversible interconversion serine glycine tetrahydrofolate thf serving one-carbon carrier. reaction serves major source one-carbon groups required biosynthesis purines thymidylate methionine important biomolecules. exhibits thf- independent aldolase activity toward beta-hydroxyamino acids producing glycine aldehydes via retro-aldol mechanism	catalyzes reversible interconv	1
+Cluster specific intermediate	E	ethanolamine utilization eutn	ethanolamine utilization eutn	1
+Cluster specific intermediate	E	ethanolamine utilization eutl	ethanolamine utilization eutl	1
+Cluster specific intermediate	D	lps biosynthesis wbpg	lps biosynthesis wbpg	1
+Cluster specific intermediate	D	tyrosine-protein kinase	tyrosine-protein kinase	1
+Cluster specific intermediate	D	chromosome partitioning	chromosome partitioning	1
+Cluster specific intermediate	D	component sos inhibitor division. accumulation sula causes rapid cessation division appearance long non-septate filaments. presence gtp binds polymerization-competent form ftsz 1 1 ratio thus inhibiting ftsz polymerization therefore preventing participating assembly z ring. mechanism prevents premature segregation damaged daughter cells division	component sos inhibitor divisi	1
+Cluster specific intermediate	D	addiction module toxin rele stbe	addiction module toxin rele st	1
+Cluster specific intermediate	D	arsenical pump-driving atpase	arsenical pump-driving atpase	1
+Cluster specific intermediate	G	catalyzes transfer glucose udp-glucose glucose-6-phosphate form alphaalpha-11 trehalose-6-phosphate. acts retention anomeric configuration udp-sugar donor	catalyzes transfer glucose udp	1
+Cluster specific intermediate	G	mannitol-specific cryptic phosphotransferase enzyme iia	mannitol-specific cryptic phos	1
+Cluster specific intermediate	G	eama-like transporter	eama-like transporter	1
+Cluster specific intermediate	G	galactosamine-specific pts enzyme iib component	galactosamine-specific pts enz	2
+Cluster specific intermediate	G	abc transporter	abc transporter	6
+Cluster specific intermediate	G	glucose galactose transporter	glucose galactose transporter	1
+Cluster specific intermediate	G	major facilitator	major facilitator	2
+Cluster specific intermediate	G	polysialic acid transport kpsm	polysialic acid transport kpsm	2
+Cluster specific intermediate	G	inositol monophosphatase	inositol monophosphatase	1
+Cluster specific intermediate	G	metabolite transport ydjk	metabolite transport ydjk	1
+Cluster specific intermediate	G	hexuronate transporter	hexuronate transporter	1
+Cluster specific intermediate	G	part abc transporter complex xylfgh involved xylose import. responsible energy coupling transport	part abc transporter complex x	2
+Cluster specific intermediate	G	methylglyoxal synthase	methylglyoxal synthase	1
+Cluster specific intermediate	G	converts n-acetylmannosamine-6-phosphate mannac-6-p n-acetylglucosamine-6-phosphate glcnac-6-p	converts n-acetylmannosamine-6	1
+Cluster specific intermediate	G	pts beta-glucoside-specific transporter iiabc	pts beta-glucoside-specific tr	1
+Cluster specific intermediate	G	transport araj	transport araj	1
+Cluster specific intermediate	G	catalyzes phosphorylation autoinducer 2 ai-2 phospho-ai-2 subsequently inactivates transcriptional regulator lsrr leads transcription lsr operon. phosphorylates ring-open form 45-dihydroxy-23- pentanedione dpd precursor ai-2 signaling molecules c5 position	catalyzes phosphorylation auto	1
+Cluster specific intermediate	G	trap dicarboxylate transporter dctm	trap dicarboxylate transporter	2
+Cluster specific intermediate	G	catalyzes phosphorylation n-acetylmannosamine mannac mannac-6-p	catalyzes phosphorylation n-ac	1
+Cluster specific intermediate	G	aminoimidazole riboside kinase	aminoimidazole riboside kinase	1
+Cluster specific intermediate	G	whole genome shotgun sequence	whole genome shotgun sequence	1
+Cluster specific intermediate	G	pts 2-o-a-mannosyl-d-glycerate specific transporter iiabc	pts 2-o-a-mannosyl-d-glycerate	1
+Cluster specific intermediate	G	proton-dependent permease transports dipeptides	proton-dependent permease tran	1
+Cluster specific intermediate	G	inner membrane yqce	inner membrane yqce	1
+Cluster specific intermediate	F	deoxynucleoside kinase	deoxynucleoside kinase	1
+Cluster specific intermediate	F	catalyzes hydrolysis nucleoside triphosphates preference pyrimidine deoxynucleoside triphosphates dutp dttp dctp	catalyzes hydrolysis nucleosid	1
+Cluster specific intermediate	F	xanthosine permease	xanthosine permease	1
+Cluster specific intermediate	I	alpha beta hydrolase	alpha beta hydrolase	1
+Cluster specific intermediate	I	cdp-alcohol phosphatidyltransferase	cdp-alcohol phosphatidyltransf	2
+Cluster specific intermediate	I	amp-dependent synthetase ligase	amp-dependent synthetase ligas	2
+Cluster specific intermediate	I	3-hydroxyisobutyrate dehydrogenase	3-hydroxyisobutyrate dehydroge	1
+Cluster specific intermediate	I	acyltransferase 3	acyltransferase 3	3
+Cluster specific intermediate	H	dihydropteroate synthase	dihydropteroate synthase	1
+Cluster specific intermediate	H	aminotransferase class ii	aminotransferase class ii	1
+Cluster specific intermediate	H	isochorismate synthase	isochorismate synthase	2
+Cluster specific intermediate	K	ferric uptake regulator fur	ferric uptake regulator fur	1
+Cluster specific intermediate	K	perc transcriptional activator	perc transcriptional activator	1
+Cluster specific intermediate	K	plasmid maintenance antidote xre	plasmid maintenance antidote x	1
+Cluster specific intermediate	K	functions complex flhc master transcriptional regulator regulates transcription several flagellar non-flagellar operons binding promoter region. activates expression class 2 flagellar genes flia flagellum-specific sigma factor turns class 3 genes. regulates genes whose products variety physiological pathways	functions complex flhc master 	1
+Cluster specific intermediate	K	ci repressor	ci repressor	2
+Cluster specific intermediate	K	cog antirepressor	cog antirepressor	1
+Cluster specific intermediate	K	transcriptional regulator	transcriptional regulator	39
+Cluster specific intermediate	K	dna-binding transcriptional activator	dna-binding transcriptional ac	1
+Cluster specific intermediate	K	acetyltransferase gnat	acetyltransferase gnat	1
+Cluster specific intermediate	K	parb domain-containing nuclease	parb domain-containing nucleas	3
+Cluster specific intermediate	K	transcriptional regulator laci	transcriptional regulator laci	3
+Cluster specific intermediate	K	transcriptional regulator gntr	transcriptional regulator gntr	1
+Cluster specific intermediate	K	transcriptional regulator merr	transcriptional regulator merr	1
+Cluster specific intermediate	K	myeloid lymphoid mixed-lineage leukemia 2	myeloid lymphoid mixed-lineage	1
+Cluster specific intermediate	K	transcriptional activator fear	transcriptional activator fear	1
+Cluster specific intermediate	K	pronog transcriptional regulator	pronog transcriptional regulat	2
+Cluster specific intermediate	K	partitioning parb	partitioning parb	1
+Cluster specific intermediate	K	transcriptional regulator arac	transcriptional regulator arac	3
+Cluster specific intermediate	K	parb nuclease	parb nuclease	1
+Cluster specific intermediate	K	cog transcriptional regulator	cog transcriptional regulator	1
+Cluster specific intermediate	K	transcriptional regulator chbr	transcriptional regulator chbr	1
+Cluster specific intermediate	K	gntr transcriptional regulator	gntr transcriptional regulator	1
+Cluster specific intermediate	K	phage transcriptional regulator alpa	phage transcriptional regulato	2
+Cluster specific intermediate	K	transcriptional regulator arsr	transcriptional regulator arsr	1
+Cluster specific intermediate	K	lysr transcriptional regulator	lysr transcriptional regulator	8
+Cluster specific intermediate	K	arac transcriptional regulator	arac transcriptional regulator	2
+Cluster specific intermediate	K	gcn5-related n-acetyltransferase	gcn5-related n-acetyltransfera	1
+Cluster specific intermediate	K	phage repressor	phage repressor	1
+Cluster specific intermediate	K	type iii secretion	type iii secretion	1
+Cluster specific intermediate	K	transcription regulator activates transcription stimulating rna polymerase rnap recycling case stress conditions such supercoiled high salt concentrations. probably acts releasing rnap trapped immobilized tightly supercoiled dna. activate transcription linear dna. probably involved repair	transcription regulator activa	1
+Cluster specific intermediate	J	rna methyltransferase	rna methyltransferase	1
+Cluster specific intermediate	J	eukaryotic translation initiation factor 3	eukaryotic translation initiat	1
+Cluster specific intermediate	J	involved degradation recycling damaged rna. itself target degradation atp-dependent protease la	involved degradation recycling	1
+Cluster specific intermediate	J	addiction module toxin rele stbe	addiction module toxin rele st	1
+Cluster specific intermediate	J	phosphotransferase enzyme	phosphotransferase enzyme	1
+Cluster specific intermediate	J	50s ribosomal l31 type b	50s ribosomal l31 type b	1
+Cluster specific intermediate	J	nog gcn5-related n-acetyltransferase	nog gcn5-related n-acetyltrans	1
+Cluster specific intermediate	M	degt dnrj eryc1 strs aminotransferase	degt dnrj eryc1 strs aminotran	1
+Cluster specific intermediate	M	group 1	group 1	11
+Cluster specific intermediate	M	polysaccharide export	polysaccharide export	1
+Cluster specific intermediate	M	lipopolysaccharide biosynthesis o-acetyl transferase	lipopolysaccharide biosynthesi	1
+Cluster specific intermediate	M	transglycosylase slt	transglycosylase slt	5
+Cluster specific intermediate	M	tail assembly	tail assembly	1
+Cluster specific intermediate	M	glycosyl transferases group 1	glycosyl transferases group 1	4
+Cluster specific intermediate	M	abc transporter	abc transporter	3
+Cluster specific intermediate	M	glycosyltransferase group 1	glycosyltransferase group 1	1
+Cluster specific intermediate	M	mscs mechanosensitive ion channel	mscs mechanosensitive ion chan	1
+Cluster specific intermediate	M	glycosyl transferase 11	glycosyl transferase 11	1
+Cluster specific intermediate	M	involved eca polysaccharide chain elongation	involved eca polysaccharide ch	2
+Cluster specific intermediate	M	glycosyl transferase	glycosyl transferase	35
+Cluster specific intermediate	M	utp--glucose-1-phosphate uridylyltransferase	utp--glucose-1-phosphate uridy	1
+Cluster specific intermediate	M	dtdp-4-dehydrorhamnose 35-epimerase	dtdp-4-dehydrorhamnose 35-epim	2
+Cluster specific intermediate	M	glycosyl transferase 2	glycosyl transferase 2	12
+Cluster specific intermediate	M	rhamnan synthesis f	rhamnan synthesis f	1
+Cluster specific intermediate	M	specifically catalyzes removal signal peptides prolipoproteins	specifically catalyzes removal	1
+Cluster specific intermediate	M	glycosyltransferase group 2	glycosyltransferase group 2	1
+Cluster specific intermediate	M	biofilm pga synthesis lipoprotein pgab	biofilm pga synthesis lipoprot	1
+Cluster specific intermediate	M	polysaccharide biosynthesis	polysaccharide biosynthesis	12
+Cluster specific intermediate	M	udp-glucose 4-epimerase	udp-glucose 4-epimerase	1
+Cluster specific intermediate	M	polysialic acid transport kpsm	polysialic acid transport kpsm	2
+Cluster specific intermediate	M	rz endopeptidase lambdoid prophage dlp12	rz endopeptidase lambdoid prop	2
+Cluster specific intermediate	M	antigen 43	antigen 43	3
+Cluster specific intermediate	M	catalyzes transfer 4-deoxy-4-formamido-l- arabinose udp undecaprenyl phosphate. modified arabinose attached lipid required resistance polymyxin cationic antimicrobial peptides	catalyzes transfer 4-deoxy-4-f	1
+Cluster specific intermediate	M	gdpmannose 46-dehydratase	gdpmannose 46-dehydratase	1
+Cluster specific intermediate	M	glycosyltransferase sugar-binding region containing dxd motif	glycosyltransferase sugar-bind	1
+Cluster specific intermediate	M	udp-galactopyranose mutase	udp-galactopyranose mutase	1
+Cluster specific intermediate	M	channel permits osmotically driven movement water both directions. involved osmoregulation maintenance turgor volume expansion rapidly growing cells. mediates rapid entry exit water response abrupt changes osmolarity	channel permits osmotically dr	1
+Cluster specific intermediate	M	acylneuraminate cytidylyltransferase	acylneuraminate cytidylyltrans	1
+Cluster specific intermediate	M	polysaccharide biosynthesis capd	polysaccharide biosynthesis ca	1
+Cluster specific intermediate	M	nog polysaccharide biosynthesis	nog polysaccharide biosynthesi	1
+Cluster specific intermediate	M	mannose-1-phosphate guanylyltransferase	mannose-1-phosphate guanylyltr	1
+Cluster specific intermediate	M	udp-n-acetylglucosamine 2-epimerase	udp-n-acetylglucosamine 2-epim	1
+Cluster specific intermediate	M	catalyzes conversion udp-4-keto-arabinose udp- ara4o udp-4-amino-4-deoxy-l-arabinose udp-l-ara4n. modified arabinose attached lipid required resistance polymyxin cationic antimicrobial peptides	catalyzes conversion udp-4-ket	5
+Cluster specific intermediate	M	outer membrane pgaa	outer membrane pgaa	4
+Cluster specific intermediate	M	dtdp-glucose 46-dehydratase	dtdp-glucose 46-dehydratase	1
+Cluster specific intermediate	M	udp-glucose 6-dehydrogenase	udp-glucose 6-dehydrogenase	1
+Cluster specific intermediate	M	yd repeat	yd repeat	13
+Cluster specific intermediate	M	capsular polysaccharide biosynthesis	capsular polysaccharide biosyn	1
+Cluster specific intermediate	M	catalyzes formation dtdp-glucose dttp glucose 1-phosphate well pyrophosphorolysis	catalyzes formation dtdp-gluco	3
+Cluster specific intermediate	M	outer membrane autotransporter barrel	outer membrane autotransporter	2
+Cluster specific intermediate	M	rhs repeat	rhs repeat	1
+Cluster specific intermediate	M	polysaccharide metabolism	polysaccharide metabolism	1
+Cluster specific intermediate	M	capsular polysaccharide synthesis	capsular polysaccharide synthe	1
+Cluster specific intermediate	M	gdp-fucose synthetase	gdp-fucose synthetase	1
+Cluster specific intermediate	M	outer membrane	outer membrane	21
+Cluster specific intermediate	M	o-antigen polymerase	o-antigen polymerase	1
+Cluster specific intermediate	M	k12990 rhamnosyltransferase ec 2.4.1	k12990 rhamnosyltransferase ec	1
+Cluster specific intermediate	M	outer membrane x	outer membrane x	2
+Cluster specific intermediate	M	outer membrane usher	outer membrane usher	10
+Cluster specific intermediate	M	teichoic acid biosynthesis	teichoic acid biosynthesis	1
+Cluster specific intermediate	M	glycosyl transferase group 1	glycosyl transferase group 1	6
+Cluster specific intermediate	M	gdp-mannose 46-dehydratase	gdp-mannose 46-dehydratase	1
+Cluster specific intermediate	M	cog outer membrane autotransporter	cog outer membrane autotranspo	1
+Cluster specific intermediate	M	cellulose synthase regulator	cellulose synthase regulator	1
+Cluster specific intermediate	M	pronog outer membrane adhesin	pronog outer membrane adhesin	1
+Cluster specific intermediate	M	rhs element vgr	rhs element vgr	5
+Cluster specific intermediate	M	n-acetylneuraminate synthase	n-acetylneuraminate synthase	1
+Cluster specific intermediate	L	iscro1 transposase	iscro1 transposase	6
+Cluster specific intermediate	L	cog antirestriction	cog antirestriction	1
+Cluster specific intermediate	L	prophage injection	prophage injection	1
+Cluster specific intermediate	L	integrase core	integrase core	2
+Cluster specific intermediate	L	is3 mobile element-associated	is3 mobile element-associated	1
+Cluster specific intermediate	L	replicative helicase	replicative helicase	1
+Cluster specific intermediate	L	single-stranded dna-binding	single-stranded dna-binding	2
+Cluster specific intermediate	L	insertion element iso-is1n	insertion element iso-is1n	1
+Cluster specific intermediate	L	n-6 methylase	n-6 methylase	1
+Cluster specific intermediate	L	unknown duf927	unknown duf927	1
+Cluster specific intermediate	L	dna-binding prophage	dna-binding prophage	1
+Cluster specific intermediate	L	transposase is3 is911	transposase is3 is911	1
+Cluster specific intermediate	L	mule transposase	mule transposase	1
+Cluster specific intermediate	L	unknown duf2726	unknown duf2726	1
+Cluster specific intermediate	L	damaged site wraps around one uvrb monomer. wrap dependent atp binding uvrb probably causes local melting helix facilitating insertion uvrb beta-hairpin between strands. uvrb probes one strand presence lesion. lesion found uvra subunits dissociate uvrb-dna preincision complex formed. complex subsequently bound uvrc second uvrb released. lesion found wraps around uvrb check stand damage	damaged site wraps around one 	1
+Cluster specific intermediate	L	istb atp-binding	istb atp-binding	2
+Cluster specific intermediate	L	replication o	replication o	2
+Cluster specific intermediate	L	is629 orf1	is629 orf1	3
+Cluster specific intermediate	L	cog transposase	cog transposase	2
+Cluster specific intermediate	L	acts load dnab helicase onto intiation site durning replication	acts load dnab helicase onto i	1
+Cluster specific intermediate	L	integrase catalytic	integrase catalytic	5
+Cluster specific intermediate	L	type iii restriction-modification	type iii restriction-modificat	3
+Cluster specific intermediate	L	atpase involved repair	atpase involved repair	1
+Cluster specific intermediate	L	is1 transposase	is1 transposase	1
+Cluster specific intermediate	L	moba mobl	moba mobl	2
+Cluster specific intermediate	L	type iii restriction res	type iii restriction res	1
+Cluster specific intermediate	L	conjugative transfer trai	conjugative transfer trai	2
+Cluster specific intermediate	L	phage integrase	phage integrase	2
+Cluster specific intermediate	L	rece known exonuclease viii pathway alternative pathway initiation homologous recombination escherichia coli. rece pathway activated recb recc sbca suppressors recb recc mutants. activation rece pathway results production two phage proteins relevant recombinational repair. rece duplex dna-specific exonuclease produces 3 overhangs duplex preferentially degrading 5-ending strands. recombinational repair e.coli chromosomal involves well proteins reca recf recj reco recr ruvc	rece known exonuclease viii pa	2
+Cluster specific intermediate	L	trwc relaxase	trwc relaxase	1
+Cluster specific intermediate	L	iscro1 transposase b	iscro1 transposase b	1
+Cluster specific intermediate	L	cytosine-specific methyltransferase	cytosine-specific methyltransf	1
+Cluster specific intermediate	L	phage replication	phage replication	1
+Cluster specific intermediate	L	dead deah box helicase	dead deah box helicase	2
+Cluster specific intermediate	L	transposase is204 is1001 is1096 is1165	transposase is204 is1001 is109	1
+Cluster specific intermediate	L	unknown duf303	unknown duf303	3
+Cluster specific intermediate	L	endonuclease resolves holliday junction intermediates homologous genetic recombination repair. exhibits sequence structure-selective cleavage four-way junctions introduces symmetrical nicks two strands polarity 5 side dinucleotides. corrects defects genetic recombination repair associated inactivation ruvab ruvc	endonuclease resolves holliday	2
+Cluster specific intermediate	L	reverse transcriptase rna-dependent polymerase	reverse transcriptase rna-depe	2
+Cluster specific intermediate	L	is630 transposase	is630 transposase	2
+Cluster specific intermediate	L	dna-invertase lambdoid prophage	dna-invertase lambdoid prophag	1
+Cluster specific intermediate	L	d12 class n6 adenine-specific methyltransferase	d12 class n6 adenine-specific 	3
+Cluster specific intermediate	L	istb atp binding domain-containing	istb atp binding domain-contai	1
+Cluster specific intermediate	L	crispr-associated cse3	crispr-associated cse3	1
+Cluster specific intermediate	L	excinuclease abc	excinuclease abc	1
+Cluster specific intermediate	L	c-5 cytosine-specific methylase	c-5 cytosine-specific methylas	1
+Cluster specific intermediate	L	is600 orf1	is600 orf1	3
+Cluster specific intermediate	L	crispr-associated cse1	crispr-associated cse1	1
+Cluster specific intermediate	L	pronog exodeoxyribonuclease viii	pronog exodeoxyribonuclease vi	1
+Cluster specific intermediate	L	rna-directed polymerase	rna-directed polymerase	7
+Cluster specific intermediate	O	type iii secretion	type iii secretion	1
+Cluster specific intermediate	O	serine protease	serine protease	3
+Cluster specific intermediate	O	peptidase u32	peptidase u32	1
+Cluster specific intermediate	O	fes assembly atpase sufc	fes assembly atpase sufc	1
+Cluster specific intermediate	O	residues 2 179 179 100.00 pct identical residues 1 178 178 swissprot.40 sp p42190 papkecoli papk precursor	residues 2 179 179 100.00 pct 	1
+Cluster specific intermediate	O	whole genome shotgun sequence	whole genome shotgun sequence	1
+Cluster specific intermediate	O	protease act efficient specific deubiquitinating enzyme vitro. possess desumoylating deneddylating activities. physiological substrate	protease act efficient specifi	2
+Cluster specific intermediate	O	suppressor copper-sensitivity d	suppressor copper-sensitivity 	1
+Cluster specific intermediate	O	part elfadcg-ycbuvf fimbrial operon promotes adhesion bacteria different abiotic surfaces. required biogenesis elfa fimbriae	part elfadcg-ycbuvf fimbrial o	1
+Cluster specific intermediate	O	cleaves type-4 fimbrial leader sequence methylates n-terminal generally phe residue	cleaves type-4 fimbrial leader	1
+Cluster specific intermediate	O	aaa atpase central	aaa atpase central	1
+Cluster specific intermediate	O	atp-dependent clp protease proteolytic	atp-dependent clp protease pro	2
+Cluster specific intermediate	O	fimbrial chaperone	fimbrial chaperone	1
+Cluster specific intermediate	N	flagellar biosynthetic flhb	flagellar biosynthetic flhb	1
+Cluster specific intermediate	N	flagellar motor switch	flagellar motor switch	2
+Cluster specific intermediate	N	tail component prophage	tail component prophage	1
+Cluster specific intermediate	N	type iii secretion	type iii secretion	2
+Cluster specific intermediate	N	methyl-accepting chemotaxis	methyl-accepting chemotaxis	1
+Cluster specific intermediate	N	cleaves type-4 fimbrial leader sequence methylates n-terminal generally phe residue	cleaves type-4 fimbrial leader	1
+Cluster specific intermediate	Q	amidohydrolase 2	amidohydrolase 2	1
+Cluster specific intermediate	Q	nog hemolysin-type calcium-binding	nog hemolysin-type calcium-bin	1
+Cluster specific intermediate	Q	siderophore biosynthesis	siderophore biosynthesis	1
+Cluster specific intermediate	Q	sam-dependent methyltransferase	sam-dependent methyltransferas	1
+Cluster specific intermediate	Q	lytic enzyme	lytic enzyme	1
+Cluster specific intermediate	Q	alkyl sulfatase	alkyl sulfatase	2
+Cluster specific intermediate	Q	peptide synthetase	peptide synthetase	1
+Cluster specific intermediate	P	part abc transporter complex lsrabcd involved autoinducer 2 ai-2 import. binds ai-2 delivers lsrc lsrd permeases	part abc transporter complex l	1
+Cluster specific intermediate	P	toxic anion resistance	toxic anion resistance	1
+Cluster specific intermediate	P	cog tellurium resistance	cog tellurium resistance	1
+Cluster specific intermediate	P	ferric reductase	ferric reductase	2
+Cluster specific intermediate	P	gluconate transporter	gluconate transporter	1
+Cluster specific intermediate	P	ferric enterobactin transport	ferric enterobactin transport	2
+Cluster specific intermediate	P	destroys radicals normally produced within cells toxic biological systems	destroys radicals normally pro	1
+Cluster specific intermediate	P	probably acts electrical shunt outwardly- directed proton pump linked amino acid decarboxylation part extreme acid resistance xar response	probably acts electrical shunt	1
+Cluster specific intermediate	P	trat complement resistance	trat complement resistance	1
+Cluster specific intermediate	P	abc transporter permease	abc transporter permease	4
+Cluster specific intermediate	P	inorganic phosphate transmembrane transporter activity	inorganic phosphate transmembr	1
+Cluster specific intermediate	S	tail assembly	tail assembly	2
+Cluster specific intermediate	S	unknown duf2474	unknown duf2474	2
+Cluster specific intermediate	S	unknown duf1440	unknown duf1440	1
+Cluster specific intermediate	S	pronog sir2 nad-dependent deacetylase	pronog sir2 nad-dependent deac	1
+Cluster specific intermediate	S	unknown duf3164	unknown duf3164	1
+Cluster specific intermediate	S	espa-like secreted	espa-like secreted	2
+Cluster specific intermediate	S	acetyltransferase gnat	acetyltransferase gnat	1
+Cluster specific intermediate	S	pronog atp-binding	pronog atp-binding	2
+Cluster specific intermediate	S	phosphoadenosine phosphosulfate reductase	phosphoadenosine phosphosulfat	1
+Cluster specific intermediate	S	prophage minor tail z	prophage minor tail z	1
+Cluster specific intermediate	S	late control d	late control d	3
+Cluster specific intermediate	S	major type 1 fimbrin	major type 1 fimbrin	4
+Cluster specific intermediate	S	plasmid stabilisation	plasmid stabilisation	1
+Cluster specific intermediate	S	caudovirales tail fibre assembly	caudovirales tail fibre assemb	1
+Cluster specific intermediate	S	abc transporter atp-binding	abc transporter atp-binding	1
+Cluster specific intermediate	S	unknown duf1281	unknown duf1281	1
+Cluster specific intermediate	S	dna-damage-inducible j	dna-damage-inducible j	1
+Cluster specific intermediate	S	uncharacterized conserved bacteria duf2184	uncharacterized conserved bact	1
+Cluster specific intermediate	S	polysaccharide pyruvyl transferase	polysaccharide pyruvyl transfe	3
+Cluster specific intermediate	S	phage virion morphogenesis	phage virion morphogenesis	2
+Cluster specific intermediate	S	unknown duf1320	unknown duf1320	1
+Cluster specific intermediate	S	unknown duf2591	unknown duf2591	1
+Cluster specific intermediate	S	unknown duf1219	unknown duf1219	1
+Cluster specific intermediate	S	mobb relaxase mobilization	mobb relaxase mobilization	1
+Cluster specific intermediate	S	unknown duf1076	unknown duf1076	8
+Cluster specific intermediate	S	mth538 tir-like duf1863	mth538 tir-like duf1863	1
+Cluster specific intermediate	S	shiga toxin	shiga toxin	1
+Cluster specific intermediate	S	zonular occludens toxin zot	zonular occludens toxin zot	1
+Cluster specific intermediate	S	nucleotidyl transferase unknown duf1814	nucleotidyl transferase unknow	1
+Cluster specific intermediate	S	enzyme atpase activity	enzyme atpase activity	1
+Cluster specific intermediate	S	baseplate j-like	baseplate j-like	2
+Cluster specific intermediate	S	uncharacterized conserved bacteria duf2191	uncharacterized conserved bact	1
+Cluster specific intermediate	S	wxcm-like c-terminal	wxcm-like c-terminal	3
+Cluster specific intermediate	S	metal-dependent hydrolase	metal-dependent hydrolase	1
+Cluster specific intermediate	S	unknown duf2726	unknown duf2726	1
+Cluster specific intermediate	S	acyltransferase 3	acyltransferase 3	1
+Cluster specific intermediate	S	phage baseplate	phage baseplate	1
+Cluster specific intermediate	S	hipa-like c-terminal	hipa-like c-terminal	1
+Cluster specific intermediate	S	repeat unknown duf347	repeat unknown duf347	1
+Cluster specific intermediate	S	pronog competence coia-like	pronog competence coia-like	1
+Cluster specific intermediate	S	wave lipopolysaccharide synthesis	wave lipopolysaccharide synthe	1
+Cluster specific intermediate	S	cog conserved	cog conserved	1
+Cluster specific intermediate	S	pronog integrase	pronog integrase	2
+Cluster specific intermediate	S	tail sheath	tail sheath	4
+Cluster specific intermediate	S	rhs element vgr	rhs element vgr	4
+Cluster specific intermediate	S	inner membrane yeea	inner membrane yeea	2
+Cluster specific intermediate	S	nucleoprotein polynucleotide-associated enzyme	nucleoprotein polynucleotide-a	1
+Cluster specific intermediate	S	pct identical residues 1 161 260 genpept.129 gb aal67392.1 af44781460 af447814 intergenic-region escherichia coli	pct identical residues 1 161 2	1
+Cluster specific intermediate	S	threonine efflux	threonine efflux	1
+Cluster specific intermediate	S	unknown duf1877	unknown duf1877	1
+Cluster specific intermediate	S	pronog collagen triple helix repeat-containing	pronog collagen triple helix r	1
+Cluster specific intermediate	S	unknown duf935	unknown duf935	1
+Cluster specific intermediate	S	unknown duf3732	unknown duf3732	1
+Cluster specific intermediate	S	oligosaccharide biosynthesis alg14	oligosaccharide biosynthesis a	1
+Cluster specific intermediate	S	k13735 adhesin invasin	k13735 adhesin invasin	2
+Cluster specific intermediate	S	pronog atpase involved repair	pronog atpase involved repair	1
+Cluster specific intermediate	S	cog tape measure	cog tape measure	1
+Cluster specific intermediate	S	head-tail joining	head-tail joining	1
+Cluster specific intermediate	S	inner membrane yedr	inner membrane yedr	1
+Cluster specific intermediate	S	phage p2 gpu	phage p2 gpu	1
+Cluster specific intermediate	S	unknown duf1018	unknown duf1018	2
+Cluster specific intermediate	S	plasmid stabilization	plasmid stabilization	1
+Cluster specific intermediate	S	tail completion r	tail completion r	1
+Cluster specific intermediate	S	37-kd nucleoid-associated bacterial	37-kd nucleoid-associated bact	1
+Cluster specific intermediate	S	unknown duf1643	unknown duf1643	1
+Cluster specific intermediate	S	pronog 40-residue yvtn beta-propeller repeat	pronog 40-residue yvtn beta-pr	1
+Cluster specific intermediate	S	unknown duf2635	unknown duf2635	1
+Cluster specific intermediate	S	bacterial unknown duf977	bacterial unknown duf977	7
+Cluster specific intermediate	S	unknown duf3383	unknown duf3383	1
+Cluster specific intermediate	S	unknown duf1391	unknown duf1391	3
+Cluster specific intermediate	S	unknown duf3279	unknown duf3279	1
+Cluster specific intermediate	S	baseplate assembly	baseplate assembly	4
+Cluster specific intermediate	S	rac prophage	rac prophage	1
+Cluster specific intermediate	S	collagen triple helix repeat 20 copies	collagen triple helix repeat 2	1
+Cluster specific intermediate	S	collagen triple helix	collagen triple helix	4
+Cluster specific intermediate	S	uncharacterized yaio	uncharacterized yaio	1
+Cluster specific intermediate	S	secretion effector c ssec	secretion effector c ssec	1
+Cluster specific intermediate	S	cog rhs element vgr	cog rhs element vgr	1
+Cluster specific intermediate	S	qin prophage	qin prophage	2
+Cluster specific intermediate	S	repressor prophage	repressor prophage	1
+Cluster specific intermediate	S	response oxidative stress	response oxidative stress	7
+Cluster specific intermediate	S	metallo-beta-lactamase superfamily	metallo-beta-lactamase superfa	1
+Cluster specific intermediate	S	tail component prophage cp-933k	tail component prophage cp-933	4
+Cluster specific intermediate	S	conjugal transfer trad	conjugal transfer trad	2
+Cluster specific intermediate	S	alpha beta superfamily	alpha beta superfamily	3
+Cluster specific intermediate	S	tape measure	tape measure	11
+Cluster specific intermediate	S	uncharacterized conserved bacteria	uncharacterized conserved bact	8
+Cluster specific intermediate	S	enterobacteria afad invasin	enterobacteria afad invasin	1
+Cluster specific intermediate	S	uncharacterized conserved bacteria n-term duf3322	uncharacterized conserved bact	1
+Cluster specific intermediate	S	unknown duf1380	unknown duf1380	1
+Cluster specific intermediate	S	phage holin	phage holin	1
+Cluster specific intermediate	S	n-acetylglucosaminylphosphatidylinositol deacetylase	n-acetylglucosaminylphosphatid	1
+Cluster specific intermediate	S	killing encoded within cryptic prophage	killing encoded within cryptic	2
+Cluster specific intermediate	S	pronog cytosolic	pronog cytosolic	1
+Cluster specific intermediate	S	unknown duf1627	unknown duf1627	2
+Cluster specific intermediate	S	tail collar domain-containing	tail collar domain-containing	1
+Cluster specific intermediate	S	esterase ypfh	esterase ypfh	1
+Cluster specific intermediate	S	firmnog polysaccharide biosynthesis	firmnog polysaccharide biosynt	1
+Cluster specific intermediate	S	terminase large	terminase large	9
+Cluster specific intermediate	S	host-nuclease inhibitor	host-nuclease inhibitor	1
+Cluster specific intermediate	S	unknown duf968	unknown duf968	4
+Cluster specific intermediate	S	uncharacterized yehq	uncharacterized yehq	1
+Cluster specific intermediate	S	sel1 repeat	sel1 repeat	1
+Cluster specific intermediate	S	exodeoxyribonuclease viii	exodeoxyribonuclease viii	7
+Cluster specific intermediate	S	short-chain dehydrogenase reductase sdr	short-chain dehydrogenase redu	1
+Cluster specific intermediate	S	unknown duf3296	unknown duf3296	5
+Cluster specific intermediate	S	head binding	head binding	6
+Cluster specific intermediate	S	plasmid maintenance antidote xre	plasmid maintenance antidote x	1
+Cluster specific intermediate	S	translocated intimin receptor tir	translocated intimin receptor 	3
+Cluster specific intermediate	S	membrane transport	membrane transport	1
+Cluster specific intermediate	S	hemolysin-type calcium-binding repeat 2 copies	hemolysin-type calcium-binding	1
+Cluster specific intermediate	S	unknown duf1524	unknown duf1524	1
+Cluster specific intermediate	S	colicin pore forming	colicin pore forming	2
+Cluster specific intermediate	S	preprotein translocase secb	preprotein translocase secb	1
+Cluster specific intermediate	S	pronog capsular polysaccharide biosynthesis	pronog capsular polysaccharide	2
+Cluster specific intermediate	S	phage tail tube	phage tail tube	1
+Cluster specific intermediate	S	toxic component toxin-antitoxin ta module. overexpression results inhibition growth liquid cultures	toxic component toxin-antitoxi	1
+Cluster specific intermediate	S	unknown duf2514	unknown duf2514	1
+Cluster specific intermediate	S	pronog plasma membrane h -transporting two-sector atpase	pronog plasma membrane h -tran	1
+Cluster specific intermediate	S	late control gene d	late control gene d	1
+Cluster specific intermediate	S	exact known. catalyze reduction variety substrates dimethyl sulfoxide trimethylamine n-oxide phenylmethyl sulfoxide l-methionine sulfoxide. reduce cyclic n-oxides. shows activity sulfite oxidase	exact known. catalyze reductio	2
+Cluster specific intermediate	S	type vi secretion effector hcp1	type vi secretion effector hcp	1
+Cluster specific intermediate	S	lysis s homolog lambdoid prophage	lysis s homolog lambdoid proph	1
+Cluster specific intermediate	S	regulator frmr	regulator frmr	1
+Cluster specific intermediate	S	superinfection exclusion b	superinfection exclusion b	1
+Cluster specific intermediate	S	response stress	response stress	1
+Cluster specific intermediate	S	pronog paar repeat-containing	pronog paar repeat-containing	1
+Cluster specific intermediate	S	host specificity	host specificity	22
+Cluster specific intermediate	S	phage gp46	phage gp46	1
+Cluster specific intermediate	S	putative inner membrane duf1819	putative inner membrane duf181	1
+Cluster specific intermediate	S	phage regulatory rha phageprha	phage regulatory rha phageprha	4
+Cluster specific intermediate	S	phage terminase large gpa	phage terminase large gpa	1
+Cluster specific intermediate	S	bacteriophage mu gp45	bacteriophage mu gp45	1
+Cluster specific intermediate	S	iclr helix-turn-helix	iclr helix-turn-helix	1
+Cluster specific intermediate	S	uncharacterized conserved bacteria duf2136	uncharacterized conserved bact	1
+Cluster specific intermediate	S	pentapeptide repeat	pentapeptide repeat	1
+Cluster specific intermediate	S	pronog portal	pronog portal	1
+Cluster specific intermediate	S	capsular polysaccharide phosphotransferase	capsular polysaccharide phosph	1
+Cluster specific intermediate	S	pronog phage-related membrane	pronog phage-related membrane	1
+Cluster specific intermediate	S	alpha helix chain	alpha helix chain	1
+Cluster specific intermediate	S	side tail fiber homolog lambdoid prophage	side tail fiber homolog lambdo	11
+Cluster specific intermediate	S	converts alpha-n-acetylneuranimic acid neu5ac beta-anomer accelerating equilibrium between alpha- beta-anomers. probably facilitates sialidase-negative bacteria compete sucessfully limited amounts extracellular neu5ac taken up beta-anomer. addition rapid removal sialic acid solution advantageous bacterium damp down host responses	converts alpha-n-acetylneurani	1
+Cluster specific intermediate	S	ankyrin repeat	ankyrin repeat	1
+Cluster specific intermediate	S	pronog sty2063 swall q8z5z8 embl al627272 262 aa fasta scores e 1.5e-07 24.43 id 266 aa escherichia coli o157 h7	pronog sty2063 swall q8z5z8 em	3
+Cluster specific intermediate	S	pronog unknown duf3696	pronog unknown duf3696	2
+Cluster specific intermediate	S	unknown duf1983	unknown duf1983	3
+Cluster specific intermediate	S	methyltransferase type 11	methyltransferase type 11	2
+Cluster specific intermediate	S	tail fiber assembly	tail fiber assembly	12
+Cluster specific intermediate	S	cupin 2 conserved barrel	cupin 2 conserved barrel	1
+Cluster specific intermediate	S	phage regulatory rha	phage regulatory rha	8
+Cluster specific intermediate	S	upf0401 ykff	upf0401 ykff	1
+Cluster specific intermediate	S	type vi secretion vca0111	type vi secretion vca0111	1
+Cluster specific intermediate	S	phosphoesterase pa-phosphatase related	phosphoesterase pa-phosphatase	1
+Cluster specific intermediate	S	unknown duf3486	unknown duf3486	1
+Cluster specific intermediate	S	unknown duf305	unknown duf305	1
+Cluster specific intermediate	S	nif3 ngg1p interacting factor 3	nif3 ngg1p interacting factor 	1
+Cluster specific intermediate	S	carboxymuconolactone decarboxylase	carboxymuconolactone decarboxy	1
+Cluster specific intermediate	S	putative enzyme	putative enzyme	1
+Cluster specific intermediate	S	phage derived gp49-like duf891	phage derived gp49-like duf891	1
+Cluster specific intermediate	S	unknown duf1376	unknown duf1376	1
+Cluster specific intermediate	S	reverse transcriptase rna-dependent polymerase	reverse transcriptase rna-depe	2
+Cluster specific intermediate	S	glycosyltransferase 28 c-terminal	glycosyltransferase 28 c-termi	1
+Cluster specific intermediate	S	radical sam superfamily	radical sam superfamily	1
+Cluster specific intermediate	S	non-lee-encoded type iii effector f	non-lee-encoded type iii effec	1
+Cluster specific intermediate	S	capsid scaffolding	capsid scaffolding	1
+Cluster specific intermediate	S	unknown duf3491	unknown duf3491	5
+Cluster specific intermediate	S	phage tail tape measure	phage tail tape measure	3
+Cluster specific intermediate	S	uncharacterized conserved bacteria duf2169	uncharacterized conserved bact	1
+Cluster specific intermediate	S	terminase atpase	terminase atpase	2
+Cluster specific intermediate	S	unknown duf551	unknown duf551	15
+Cluster specific intermediate	S	unknown duf550	unknown duf550	8
+Cluster specific intermediate	S	leucine rich repeat	leucine rich repeat	4
+Cluster specific intermediate	S	large repetitive	large repetitive	3
+Cluster specific intermediate	S	pils n terminal	pils n terminal	1
+Cluster specific intermediate	S	unknown duf3375	unknown duf3375	2
+Cluster specific intermediate	S	type vi	type vi	5
+Cluster specific intermediate	S	bacteriocin immunity	bacteriocin immunity	2
+Cluster specific intermediate	S	s-formylglutathione hydrolase	s-formylglutathione hydrolase	1
+Cluster specific intermediate	S	bacteriophage lysis	bacteriophage lysis	2
+Cluster specific intermediate	S	wall organization	wall organization	1
+Cluster specific intermediate	S	mannitol operon repressor	mannitol operon repressor	1
+Cluster specific intermediate	S	head fiber	head fiber	1
+Cluster specific intermediate	S	repressor metj	repressor metj	2
+Cluster specific intermediate	S	degtdnrjeryc1strs aminotransferase	degtdnrjeryc1strs aminotransfe	1
+Cluster specific intermediate	S	prophage membrane	prophage membrane	2
+Cluster specific intermediate	S	phage portal lambda	phage portal lambda	5
+Cluster specific intermediate	S	uncharacterized conserved bacteria duf2313	uncharacterized conserved bact	2
+Cluster specific intermediate	S	pronog cytoplasmic	pronog cytoplasmic	1
+Cluster specific intermediate	S	stability partitioning	stability partitioning	1
+Cluster specific intermediate	S	fimbrial-like ydeq	fimbrial-like ydeq	1
+Cluster specific intermediate	S	fimbrial-like yder	fimbrial-like yder	3
+Cluster specific intermediate	S	fimbrial-like ydes	fimbrial-like ydes	1
+Cluster specific intermediate	S	unknown duf1133	unknown duf1133	1
+Cluster specific intermediate	S	tail fiber	tail fiber	66
+Cluster specific intermediate	S	unknown duf1435	unknown duf1435	2
+Cluster specific intermediate	S	type vi secretion-associated	type vi secretion-associated	2
+Cluster specific intermediate	S	mammalian entry related	mammalian entry related	1
+Cluster specific intermediate	S	bacteriophage phiyeo3-12 1.45 1.45 swall q9t140 embl aj251805 157 aa fasta scores e 2.6e-06 36.06 id 122 aa escherichia coli o157 h7	bacteriophage phiyeo3-12 1.45 	1
+Cluster specific intermediate	S	smr muts2	smr muts2	1
+Cluster specific intermediate	S	unknown duf488	unknown duf488	1
+Cluster specific intermediate	S	hipa n-terminal	hipa n-terminal	3
+Cluster specific intermediate	S	unknown duf87	unknown duf87	1
+Cluster specific intermediate	S	alpha beta fold	alpha beta fold	1
+Cluster specific intermediate	S	uncharacterized conserved bacteria duf2326	uncharacterized conserved bact	1
+Cluster specific intermediate	U	involved type ii secretion t2ss formerly general secretion pathway gsp export proteins	involved type ii secretion t2s	1
+Cluster specific intermediate	U	outer membrane porin	outer membrane porin	1
+Cluster specific intermediate	U	type iii secretion	type iii secretion	4
+Cluster specific intermediate	U	flp operon d	flp operon d	1
+Cluster specific intermediate	U	specifically catalyzes removal signal peptides prolipoproteins	specifically catalyzes removal	1
+Cluster specific intermediate	U	collagen triple helix repeat 20 copies	collagen triple helix repeat 2	1
+Cluster specific intermediate	U	secreted mxi-spa secretion machinery	secreted mxi-spa secretion mac	2
+Cluster specific intermediate	U	outer membrane autotransporter barrel	outer membrane autotransporter	2
+Cluster specific intermediate	U	general secretion pathway d	general secretion pathway d	2
+Cluster specific intermediate	U	type iv secretion-system coupling dna-binding	type iv secretion-system coupl	4
+Cluster specific intermediate	U	fimbrial-like yadc	fimbrial-like yadc	4
+Cluster specific intermediate	U	transfer trbj	transfer trbj	1
+Cluster specific intermediate	U	conjugative transfer trac	conjugative transfer trac	3
+Cluster specific intermediate	U	pilus assembly	pilus assembly	1
+Cluster specific intermediate	U	conjugative transfer trag	conjugative transfer trag	3
+Cluster specific intermediate	U	involved triggering intracellular events lead microbial internalization. events include increase calcium level redistribution actin microfilaments changes normal structure microvilli. encoded within type iii secretion spi-1 ttss essential translocation effectors host cells. forms complex sipb sipc presence chaperone sica	involved triggering intracellu	1
+Cluster specific intermediate	U	antigen 43	antigen 43	3
+Cluster specific intermediate	U	atp-binding component transport	atp-binding component transpor	3
+Cluster specific intermediate	U	conjugative transfer	conjugative transfer	6
+Cluster specific intermediate	U	surface presentation antigens spas	surface presentation antigens 	1
+Cluster specific intermediate	U	outer membrane	outer membrane	7
+Cluster specific intermediate	U	cleaves type-4 fimbrial leader sequence methylates n-terminal generally phe residue	cleaves type-4 fimbrial leader	1
+Cluster specific intermediate	U	pilv type iv pilus minor pilin shufflon	pilv type iv pilus minor pilin	1
+Cluster specific intermediate	U	filamentous hemagglutinin	filamentous hemagglutinin	11
+Cluster specific intermediate	U	cog outer membrane autotransporter	cog outer membrane autotranspo	1
+Cluster specific intermediate	U	conjugal transfer	conjugal transfer	1
+Cluster specific intermediate	U	filamentous hemagglutinin outer membrane	filamentous hemagglutinin oute	2
+Cluster specific intermediate	T	serine threonine phosphatase 1	serine threonine phosphatase 1	2
+Cluster specific intermediate	T	part 2 seems dedicated regulate transcription csgd. csdg turn regulates expression adhesive curli fimbriae genes csgefg csgbac ymad adra yaic. activity antagonized phosphodiesterase gmr ycir. vitro weak diguanylate cyclase activity. cyclic-di-gmp second messenger controls surface-associated traits bacteria	part 2 seems dedicated regulat	2
+Cluster specific intermediate	T	diguanylate phosphodiesterase	diguanylate phosphodiesterase	2
+Cluster specific intermediate	T	methyl-accepting chemotaxis	methyl-accepting chemotaxis	1
+Cluster specific intermediate	T	membrane ylif	membrane ylif	1
+Cluster specific intermediate	T	serine kinase	serine kinase	1
+Cluster specific intermediate	T	signal transduction nacht	signal transduction nacht	1
+Cluster specific intermediate	T	whole genome shotgun sequence	whole genome shotgun sequence	1
+Cluster specific intermediate	T	histidine kinase	histidine kinase	5
+Cluster specific intermediate	T	serine threonine kinase	serine threonine kinase	1
+Cluster specific intermediate	T	serine threonine phosphatase	serine threonine phosphatase	6
+Cluster specific intermediate	T	diguanylate cyclase	diguanylate cyclase	6
+Cluster specific intermediate	W	collagen triple helix repeat 20 copies	collagen triple helix repeat 2	1
+Cluster specific intermediate	W	oligomeric mucus gel-forming	oligomeric mucus gel-forming	1
+Cluster specific intermediate	W	collagen type alpha 1	collagen type alpha 1	3
+Cluster specific intermediate	V	hnh endonuclease	hnh endonuclease	4
+Cluster specific intermediate	V	multidrug resistance	multidrug resistance	1
+Cluster specific intermediate	V	bpu10i restriction endonuclease	bpu10i restriction endonucleas	1
+Cluster specific intermediate	V	type restriction-modification r	type restriction-modification 	2
+Cluster specific intermediate	V	type restriction-modification s	type restriction-modification 	4
+Cluster specific intermediate	V	n-6 methylase	n-6 methylase	1
+Cluster specific intermediate	V	type iii	type iii	2
+Cluster specific intermediate	V	oligomeric mucus gel-forming	oligomeric mucus gel-forming	1
+Cluster specific intermediate	V	type ii restriction enzyme methylase	type ii restriction enzyme met	1
+Cluster specific intermediate	V	ec 2.3.1.81	ec 2.3.1.81	1
+Cluster specific intermediate	V	numod4 motif	numod4 motif	1
+Cluster specific intermediate	V	involved lipid export possibly glycerophospholipid export biogenesis outer membrane. transmembrane domains tmd form pore inner membrane atp-binding nbd responsible energy generation	involved lipid export possibly	1
+Cluster specific intermediate	V	type restriction-modification	type restriction-modification	11
+Cluster specific intermediate	V	abc transporter	abc transporter	1
+Cluster specific intermediate	V	type restriction modification specificity	type restriction modification 	2

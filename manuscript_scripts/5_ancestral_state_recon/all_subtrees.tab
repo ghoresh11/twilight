@@ -1,0 +1,652 @@
+id	name	class	gains	losses	size
+1	22	Intermediate and rare	663	94	1
+2	39	Intermediate and rare	225	314	1
+3	14	Intermediate and rare	363	86	1
+4	6	Intermediate and rare	718	36	1
+5	5	Intermediate and rare	1029	60	1
+6	48	Intermediate and rare	349	441	1
+7	15	Intermediate and rare	790	159	1
+8	26	Intermediate and rare	759	64	1
+9	32	Intermediate and rare	477	110	1
+10	42	Intermediate and rare	293	281	1
+11	24	Intermediate and rare	564	21	1
+12	36	Intermediate and rare	213	186	1
+13	8	Intermediate and rare	652	54	1
+14	34	Intermediate and rare	760	168	1
+15	9	Intermediate and rare	790	172	1
+16	40	Intermediate and rare	836	66	1
+17	30	Intermediate and rare	235	165	1
+18	45	Intermediate and rare	247	72	1
+19	12	Intermediate and rare	1574	19	1
+20	28	Intermediate and rare	385	404	1
+21	35	Intermediate and rare	133	85	1
+22	23	Intermediate and rare	576	111	1
+23	10	Intermediate and rare	316	27	1
+24	16	Intermediate and rare	258	704	1
+25	1	Intermediate and rare	1074	72	1
+26	46	Intermediate and rare	436	377	1
+27	37	Intermediate and rare	389	164	1
+28	7	Intermediate and rare	1070	5	1
+29	19	Intermediate and rare	274	85	1
+30	51	Intermediate and rare	72	1121	1
+31	17	Intermediate and rare	677	227	1
+32	41	Intermediate and rare	189	555	1
+33	11	Intermediate and rare	543	64	1
+34	25	Intermediate and rare	622	217	1
+35	18	Intermediate and rare	235	537	1
+36	4	Intermediate and rare	1257	31	1
+37	29	Intermediate and rare	233	350	1
+38	3	Intermediate and rare	1018	70	1
+39	13	Intermediate and rare	376	255	1
+40	27	Intermediate and rare	226	339	1
+41	47	Intermediate and rare	142	161	1
+42	2	Intermediate and rare	1201	35	1
+43	20	Intermediate and rare	207	325	1
+44	44	Intermediate and rare	589	123	1
+45	33	Intermediate and rare	342	175	1
+46	38	Intermediate and rare	188	201	1
+47	31	Intermediate and rare	444	19	1
+48	48	Intermediate and rare	0	0	47
+49	49	Intermediate and rare	0	0	30
+50	50	Intermediate and rare	42	97	25
+51	51	Intermediate and rare	21	163	22
+52	52	Intermediate and rare	21	65	18
+53	53	Intermediate and rare	153	8	16
+54	54	Intermediate and rare	248	23	15
+55	55	Intermediate and rare	74	64	2
+56	56	Intermediate and rare	90	21	13
+57	57	Intermediate and rare	485	10	2
+58	58	Intermediate and rare	31	189	11
+59	59	Intermediate and rare	189	32	3
+60	60	Intermediate and rare	293	25	2
+61	61	Intermediate and rare	24	134	8
+62	62	Intermediate and rare	42	48	6
+63	63	Intermediate and rare	41	144	5
+64	64	Intermediate and rare	8	28	2
+65	65	Intermediate and rare	74	9	3
+66	66	Intermediate and rare	411	122	2
+67	67	Intermediate and rare	45	28	2
+68	68	Intermediate and rare	92	131	2
+69	69	Intermediate and rare	63	19	4
+70	70	Intermediate and rare	198	62	3
+71	71	Intermediate and rare	207	17	2
+72	72	Intermediate and rare	542	26	3
+73	73	Intermediate and rare	149	10	2
+74	74	Intermediate and rare	195	3	5
+75	75	Intermediate and rare	57	42	2
+76	76	Intermediate and rare	478	5	3
+77	77	Intermediate and rare	20	74	2
+78	78	Intermediate and rare	0	0	17
+79	79	Intermediate and rare	99	24	13
+80	80	Intermediate and rare	68	76	10
+81	81	Intermediate and rare	549	57	9
+82	82	Intermediate and rare	137	29	3
+83	83	Intermediate and rare	50	147	2
+84	84	Intermediate and rare	245	37	6
+85	85	Intermediate and rare	35	166	4
+86	86	Intermediate and rare	22	343	2
+87	87	Intermediate and rare	259	6	2
+88	88	Intermediate and rare	292	7	2
+89	89	Intermediate and rare	183	11	3
+90	90	Intermediate and rare	483	50	2
+91	91	Intermediate and rare	33	44	4
+92	92	Intermediate and rare	337	118	3
+93	93	Intermediate and rare	77	101	2
+1	22	Multi-cluster rare	752	8	1
+2	39	Multi-cluster rare	286	122	1
+3	14	Multi-cluster rare	882	23	1
+4	6	Multi-cluster rare	1040	74	1
+5	5	Multi-cluster rare	2019	11	1
+6	48	Multi-cluster rare	239	479	1
+7	15	Multi-cluster rare	625	4	1
+8	26	Multi-cluster rare	562	8	1
+9	32	Multi-cluster rare	296	6	1
+10	42	Multi-cluster rare	314	30	1
+11	24	Multi-cluster rare	321	6	1
+12	36	Multi-cluster rare	182	134	1
+13	8	Multi-cluster rare	1053	13	1
+14	34	Multi-cluster rare	697	124	1
+15	9	Multi-cluster rare	1022	18	1
+16	40	Multi-cluster rare	1030	45	1
+17	30	Multi-cluster rare	82	47	1
+18	45	Multi-cluster rare	128	0	1
+19	12	Multi-cluster rare	1387	37	1
+20	28	Multi-cluster rare	605	54	1
+21	35	Multi-cluster rare	98	69	1
+22	23	Multi-cluster rare	621	2	1
+23	10	Multi-cluster rare	317	0	1
+24	16	Multi-cluster rare	223	826	1
+25	1	Multi-cluster rare	2917	16	1
+26	46	Multi-cluster rare	397	146	1
+27	37	Multi-cluster rare	477	52	1
+28	7	Multi-cluster rare	1622	0	1
+29	19	Multi-cluster rare	598	11	1
+30	51	Multi-cluster rare	24	481	1
+31	17	Multi-cluster rare	545	185	1
+32	41	Multi-cluster rare	200	117	1
+33	11	Multi-cluster rare	973	4	1
+34	25	Multi-cluster rare	805	119	1
+35	18	Multi-cluster rare	576	149	1
+36	4	Multi-cluster rare	2479	16	1
+37	29	Multi-cluster rare	351	197	1
+38	3	Multi-cluster rare	2314	18	1
+39	13	Multi-cluster rare	614	38	1
+40	27	Multi-cluster rare	229	17	1
+41	47	Multi-cluster rare	185	2	1
+42	2	Multi-cluster rare	2531	28	1
+43	20	Multi-cluster rare	358	175	1
+44	44	Multi-cluster rare	343	2	1
+45	33	Multi-cluster rare	428	39	1
+46	38	Multi-cluster rare	326	93	1
+47	31	Multi-cluster rare	326	3	1
+48	48	Multi-cluster rare	0	0	47
+49	49	Multi-cluster rare	0	0	30
+50	50	Multi-cluster rare	24	2	25
+51	51	Multi-cluster rare	8	25	22
+52	52	Multi-cluster rare	0	17	18
+53	53	Multi-cluster rare	65	0	16
+54	54	Multi-cluster rare	89	1	15
+55	55	Multi-cluster rare	16	13	2
+56	56	Multi-cluster rare	68	0	13
+57	57	Multi-cluster rare	374	16	2
+58	58	Multi-cluster rare	65	37	11
+59	59	Multi-cluster rare	229	2	3
+60	60	Multi-cluster rare	108	9	2
+61	61	Multi-cluster rare	11	74	8
+62	62	Multi-cluster rare	13	47	6
+63	63	Multi-cluster rare	3	88	5
+64	64	Multi-cluster rare	2	88	2
+65	65	Multi-cluster rare	100	2	3
+66	66	Multi-cluster rare	226	8	2
+67	67	Multi-cluster rare	28	39	2
+68	68	Multi-cluster rare	4	17	2
+69	69	Multi-cluster rare	81	0	4
+70	70	Multi-cluster rare	88	12	3
+71	71	Multi-cluster rare	118	55	2
+72	72	Multi-cluster rare	811	0	3
+73	73	Multi-cluster rare	144	2	2
+74	74	Multi-cluster rare	153	0	5
+75	75	Multi-cluster rare	30	3	2
+76	76	Multi-cluster rare	292	0	3
+77	77	Multi-cluster rare	7	27	2
+78	78	Multi-cluster rare	0	0	17
+79	79	Multi-cluster rare	16	0	13
+80	80	Multi-cluster rare	20	0	10
+81	81	Multi-cluster rare	239	9	9
+82	82	Multi-cluster rare	178	5	3
+83	83	Multi-cluster rare	35	120	2
+84	84	Multi-cluster rare	148	4	6
+85	85	Multi-cluster rare	28	91	4
+86	86	Multi-cluster rare	8	45	2
+87	87	Multi-cluster rare	161	2	2
+88	88	Multi-cluster rare	475	6	2
+89	89	Multi-cluster rare	194	0	3
+90	90	Multi-cluster rare	310	0	2
+91	91	Multi-cluster rare	16	2	4
+92	92	Multi-cluster rare	155	4	3
+93	93	Multi-cluster rare	76	8	2
+1	22	Core, intermediate and rare	201	102	1
+2	39	Core, intermediate and rare	120	236	1
+3	14	Core, intermediate and rare	97	253	1
+4	6	Core, intermediate and rare	330	48	1
+5	5	Core, intermediate and rare	383	56	1
+6	48	Core, intermediate and rare	73	465	1
+7	15	Core, intermediate and rare	367	96	1
+8	26	Core, intermediate and rare	267	125	1
+9	32	Core, intermediate and rare	244	58	1
+10	42	Core, intermediate and rare	249	407	1
+11	24	Core, intermediate and rare	187	55	1
+12	36	Core, intermediate and rare	118	148	1
+13	8	Core, intermediate and rare	350	72	1
+14	34	Core, intermediate and rare	313	194	1
+15	9	Core, intermediate and rare	399	231	1
+16	40	Core, intermediate and rare	333	91	1
+17	30	Core, intermediate and rare	105	265	1
+18	45	Core, intermediate and rare	132	111	1
+19	12	Core, intermediate and rare	682	26	1
+20	28	Core, intermediate and rare	222	386	1
+21	35	Core, intermediate and rare	46	114	1
+22	23	Core, intermediate and rare	157	130	1
+23	10	Core, intermediate and rare	100	99	1
+24	16	Core, intermediate and rare	185	363	1
+25	1	Core, intermediate and rare	238	120	1
+26	46	Core, intermediate and rare	92	222	1
+27	37	Core, intermediate and rare	91	165	1
+28	7	Core, intermediate and rare	243	20	1
+29	19	Core, intermediate and rare	100	173	1
+30	51	Core, intermediate and rare	70	546	1
+31	17	Core, intermediate and rare	418	219	1
+32	41	Core, intermediate and rare	116	225	1
+33	11	Core, intermediate and rare	189	53	1
+34	25	Core, intermediate and rare	374	141	1
+35	18	Core, intermediate and rare	153	590	1
+36	4	Core, intermediate and rare	280	47	1
+37	29	Core, intermediate and rare	102	263	1
+38	3	Core, intermediate and rare	287	48	1
+39	13	Core, intermediate and rare	211	172	1
+40	27	Core, intermediate and rare	176	327	1
+41	47	Core, intermediate and rare	78	227	1
+42	2	Core, intermediate and rare	434	31	1
+43	20	Core, intermediate and rare	82	262	1
+44	44	Core, intermediate and rare	173	164	1
+45	33	Core, intermediate and rare	145	136	1
+46	38	Core, intermediate and rare	116	169	1
+47	31	Core, intermediate and rare	103	99	1
+48	48	Core, intermediate and rare	0	0	47
+49	49	Core, intermediate and rare	0	0	30
+50	50	Core, intermediate and rare	66	139	25
+51	51	Core, intermediate and rare	32	155	22
+52	52	Core, intermediate and rare	10	69	18
+53	53	Core, intermediate and rare	123	8	16
+54	54	Core, intermediate and rare	338	36	15
+55	55	Core, intermediate and rare	59	71	2
+56	56	Core, intermediate and rare	42	27	13
+57	57	Core, intermediate and rare	115	21	2
+58	58	Core, intermediate and rare	51	107	11
+59	59	Core, intermediate and rare	122	42	3
+60	60	Core, intermediate and rare	118	33	2
+61	61	Core, intermediate and rare	21	113	8
+62	62	Core, intermediate and rare	25	37	6
+63	63	Core, intermediate and rare	86	188	5
+64	64	Core, intermediate and rare	53	46	2
+65	65	Core, intermediate and rare	63	53	3
+66	66	Core, intermediate and rare	317	97	2
+67	67	Core, intermediate and rare	13	24	2
+68	68	Core, intermediate and rare	23	173	2
+69	69	Core, intermediate and rare	85	55	4
+70	70	Core, intermediate and rare	293	150	3
+71	71	Core, intermediate and rare	227	20	2
+72	72	Core, intermediate and rare	367	54	3
+73	73	Core, intermediate and rare	111	31	2
+74	74	Core, intermediate and rare	156	5	5
+75	75	Core, intermediate and rare	26	59	2
+76	76	Core, intermediate and rare	171	7	3
+77	77	Core, intermediate and rare	82	121	2
+78	78	Core, intermediate and rare	0	0	17
+79	79	Core, intermediate and rare	74	57	13
+80	80	Core, intermediate and rare	49	51	10
+81	81	Core, intermediate and rare	248	21	9
+82	82	Core, intermediate and rare	47	47	3
+83	83	Core, intermediate and rare	18	50	2
+84	84	Core, intermediate and rare	178	5	6
+85	85	Core, intermediate and rare	34	68	4
+86	86	Core, intermediate and rare	56	77	2
+87	87	Core, intermediate and rare	47	8	2
+88	88	Core, intermediate and rare	128	3	2
+89	89	Core, intermediate and rare	95	19	3
+90	90	Core, intermediate and rare	202	7	2
+91	91	Core, intermediate and rare	54	22	4
+92	92	Core, intermediate and rare	135	52	3
+93	93	Core, intermediate and rare	97	105	2
+1	22	Core and rare	30	4	1
+2	39	Core and rare	34	3	1
+3	14	Core and rare	18	2	1
+4	6	Core and rare	30	2	1
+5	5	Core and rare	21	1	1
+6	48	Core and rare	32	3	1
+7	15	Core and rare	30	0	1
+8	26	Core and rare	35	0	1
+9	32	Core and rare	14	0	1
+10	42	Core and rare	35	4	1
+11	24	Core and rare	20	2	1
+12	36	Core and rare	33	11	1
+13	8	Core and rare	40	2	1
+14	34	Core and rare	33	1	1
+15	9	Core and rare	45	3	1
+16	40	Core and rare	21	3	1
+17	30	Core and rare	26	12	1
+18	45	Core and rare	50	0	1
+19	12	Core and rare	79	3	1
+20	28	Core and rare	20	4	1
+21	35	Core and rare	15	1	1
+22	23	Core and rare	49	2	1
+23	10	Core and rare	19	4	1
+24	16	Core and rare	15	9	1
+25	1	Core and rare	58	2	1
+26	46	Core and rare	10	3	1
+27	37	Core and rare	22	0	1
+28	7	Core and rare	52	3	1
+29	19	Core and rare	11	15	1
+30	51	Core and rare	4	27	1
+31	17	Core and rare	30	10	1
+32	41	Core and rare	19	6	1
+33	11	Core and rare	25	0	1
+34	25	Core and rare	36	14	1
+35	18	Core and rare	33	14	1
+36	4	Core and rare	61	1	1
+37	29	Core and rare	12	6	1
+38	3	Core and rare	56	3	1
+39	13	Core and rare	27	9	1
+40	27	Core and rare	23	3	1
+41	47	Core and rare	19	4	1
+42	2	Core and rare	40	2	1
+43	20	Core and rare	13	56	1
+44	44	Core and rare	50	0	1
+45	33	Core and rare	20	4	1
+46	38	Core and rare	14	1	1
+47	31	Core and rare	9	1	1
+48	48	Core and rare	0	0	47
+49	49	Core and rare	0	0	30
+50	50	Core and rare	2	1	25
+51	51	Core and rare	3	10	22
+52	52	Core and rare	5	1	18
+53	53	Core and rare	1	1	16
+54	54	Core and rare	9	4	15
+55	55	Core and rare	4	0	2
+56	56	Core and rare	2	0	13
+57	57	Core and rare	27	2	2
+58	58	Core and rare	0	3	11
+59	59	Core and rare	0	0	3
+60	60	Core and rare	8	0	2
+61	61	Core and rare	2	0	8
+62	62	Core and rare	1	1	6
+63	63	Core and rare	1	1	5
+64	64	Core and rare	4	1	2
+65	65	Core and rare	3	2	3
+66	66	Core and rare	17	0	2
+67	67	Core and rare	8	1	2
+68	68	Core and rare	5	3	2
+69	69	Core and rare	5	3	4
+70	70	Core and rare	13	2	3
+71	71	Core and rare	21	0	2
+72	72	Core and rare	17	10	3
+73	73	Core and rare	19	1	2
+74	74	Core and rare	7	0	5
+75	75	Core and rare	8	3	2
+76	76	Core and rare	47	2	3
+77	77	Core and rare	9	1	2
+78	78	Core and rare	0	0	17
+79	79	Core and rare	5	11	13
+80	80	Core and rare	7	0	10
+81	81	Core and rare	10	0	9
+82	82	Core and rare	6	1	3
+83	83	Core and rare	0	6	2
+84	84	Core and rare	6	6	6
+85	85	Core and rare	7	8	4
+86	86	Core and rare	0	1	2
+87	87	Core and rare	2	2	2
+88	88	Core and rare	20	0	2
+89	89	Core and rare	59	0	3
+90	90	Core and rare	29	4	2
+91	91	Core and rare	4	0	4
+92	92	Core and rare	7	5	3
+93	93	Core and rare	14	8	2
+1	22	Core and intermediate	44	35	1
+2	39	Core and intermediate	66	55	1
+3	14	Core and intermediate	31	72	1
+4	6	Core and intermediate	23	30	1
+5	5	Core and intermediate	47	15	1
+6	48	Core and intermediate	17	24	1
+7	15	Core and intermediate	55	52	1
+8	26	Core and intermediate	76	14	1
+9	32	Core and intermediate	26	34	1
+10	42	Core and intermediate	50	16	1
+11	24	Core and intermediate	15	16	1
+12	36	Core and intermediate	37	33	1
+13	8	Core and intermediate	14	13	1
+14	34	Core and intermediate	41	26	1
+15	9	Core and intermediate	53	87	1
+16	40	Core and intermediate	45	14	1
+17	30	Core and intermediate	61	252	1
+18	45	Core and intermediate	47	131	1
+19	12	Core and intermediate	69	12	1
+20	28	Core and intermediate	30	35	1
+21	35	Core and intermediate	9	37	1
+22	23	Core and intermediate	100	51	1
+23	10	Core and intermediate	41	55	1
+24	16	Core and intermediate	30	16	1
+25	1	Core and intermediate	9	79	1
+26	46	Core and intermediate	11	10	1
+27	37	Core and intermediate	8	11	1
+28	7	Core and intermediate	9	16	1
+29	19	Core and intermediate	24	28	1
+30	51	Core and intermediate	28	21	1
+31	17	Core and intermediate	23	30	1
+32	41	Core and intermediate	22	15	1
+33	11	Core and intermediate	9	17	1
+34	25	Core and intermediate	22	15	1
+35	18	Core and intermediate	23	143	1
+36	4	Core and intermediate	18	16	1
+37	29	Core and intermediate	24	26	1
+38	3	Core and intermediate	18	33	1
+39	13	Core and intermediate	15	22	1
+40	27	Core and intermediate	76	46	1
+41	47	Core and intermediate	26	7	1
+42	2	Core and intermediate	17	31	1
+43	20	Core and intermediate	11	13	1
+44	44	Core and intermediate	32	17	1
+45	33	Core and intermediate	13	90	1
+46	38	Core and intermediate	10	44	1
+47	31	Core and intermediate	30	42	1
+48	48	Core and intermediate	0	0	47
+49	49	Core and intermediate	0	0	30
+50	50	Core and intermediate	30	19	25
+51	51	Core and intermediate	55	42	22
+52	52	Core and intermediate	10	11	18
+53	53	Core and intermediate	28	3	16
+54	54	Core and intermediate	87	19	15
+55	55	Core and intermediate	21	17	2
+56	56	Core and intermediate	4	9	13
+57	57	Core and intermediate	27	16	2
+58	58	Core and intermediate	11	17	11
+59	59	Core and intermediate	5	21	3
+60	60	Core and intermediate	42	24	2
+61	61	Core and intermediate	6	3	8
+62	62	Core and intermediate	9	1	6
+63	63	Core and intermediate	2	28	5
+64	64	Core and intermediate	14	19	2
+65	65	Core and intermediate	3	12	3
+66	66	Core and intermediate	32	8	2
+67	67	Core and intermediate	8	7	2
+68	68	Core and intermediate	40	109	2
+69	69	Core and intermediate	29	17	4
+70	70	Core and intermediate	31	21	3
+71	71	Core and intermediate	21	3	2
+72	72	Core and intermediate	66	24	3
+73	73	Core and intermediate	41	30	2
+74	74	Core and intermediate	13	6	5
+75	75	Core and intermediate	48	15	2
+76	76	Core and intermediate	45	44	3
+77	77	Core and intermediate	16	14	2
+78	78	Core and intermediate	0	0	17
+79	79	Core and intermediate	36	108	13
+80	80	Core and intermediate	13	10	10
+81	81	Core and intermediate	43	7	9
+82	82	Core and intermediate	18	1	3
+83	83	Core and intermediate	19	11	2
+84	84	Core and intermediate	8	5	6
+85	85	Core and intermediate	5	1	4
+86	86	Core and intermediate	2	9	2
+87	87	Core and intermediate	9	1	2
+88	88	Core and intermediate	3	5	2
+89	89	Core and intermediate	13	6	3
+90	90	Core and intermediate	27	13	2
+91	91	Core and intermediate	34	7	4
+92	92	Core and intermediate	27	15	3
+93	93	Core and intermediate	34	39	2
+1	22	Multi-cluster core	30	19	1
+2	39	Multi-cluster core	28	16	1
+3	14	Multi-cluster core	16	14	1
+4	6	Multi-cluster core	26	9	1
+5	5	Multi-cluster core	12	6	1
+6	48	Multi-cluster core	14	6	1
+7	15	Multi-cluster core	23	10	1
+8	26	Multi-cluster core	29	3	1
+9	32	Multi-cluster core	36	16	1
+10	42	Multi-cluster core	23	7	1
+11	24	Multi-cluster core	14	10	1
+12	36	Multi-cluster core	26	23	1
+13	8	Multi-cluster core	13	12	1
+14	34	Multi-cluster core	30	7	1
+15	9	Multi-cluster core	22	23	1
+16	40	Multi-cluster core	42	6	1
+17	30	Multi-cluster core	57	90	1
+18	45	Multi-cluster core	45	52	1
+19	12	Multi-cluster core	2	13	1
+20	28	Multi-cluster core	12	9	1
+21	35	Multi-cluster core	12	8	1
+22	23	Multi-cluster core	39	30	1
+23	10	Multi-cluster core	43	16	1
+24	16	Multi-cluster core	25	5	1
+25	1	Multi-cluster core	12	37	1
+26	46	Multi-cluster core	8	5	1
+27	37	Multi-cluster core	10	5	1
+28	7	Multi-cluster core	14	17	1
+29	19	Multi-cluster core	18	44	1
+30	51	Multi-cluster core	22	19	1
+31	17	Multi-cluster core	28	9	1
+32	41	Multi-cluster core	47	38	1
+33	11	Multi-cluster core	14	20	1
+34	25	Multi-cluster core	8	8	1
+35	18	Multi-cluster core	25	65	1
+36	4	Multi-cluster core	23	17	1
+37	29	Multi-cluster core	30	26	1
+38	3	Multi-cluster core	34	41	1
+39	13	Multi-cluster core	28	16	1
+40	27	Multi-cluster core	73	47	1
+41	47	Multi-cluster core	39	5	1
+42	2	Multi-cluster core	3	27	1
+43	20	Multi-cluster core	16	4	1
+44	44	Multi-cluster core	42	9	1
+45	33	Multi-cluster core	9	28	1
+46	38	Multi-cluster core	10	20	1
+47	31	Multi-cluster core	24	33	1
+48	48	Multi-cluster core	0	0	47
+49	49	Multi-cluster core	0	0	30
+50	50	Multi-cluster core	9	10	25
+51	51	Multi-cluster core	8	38	22
+52	52	Multi-cluster core	10	8	18
+53	53	Multi-cluster core	12	1	16
+54	54	Multi-cluster core	27	4	15
+55	55	Multi-cluster core	12	8	2
+56	56	Multi-cluster core	1	2	13
+57	57	Multi-cluster core	32	8	2
+58	58	Multi-cluster core	2	8	11
+59	59	Multi-cluster core	9	2	3
+60	60	Multi-cluster core	54	3	2
+61	61	Multi-cluster core	0	0	8
+62	62	Multi-cluster core	10	2	6
+63	63	Multi-cluster core	6	1	5
+64	64	Multi-cluster core	5	8	2
+65	65	Multi-cluster core	6	2	3
+66	66	Multi-cluster core	5	3	2
+67	67	Multi-cluster core	4	5	2
+68	68	Multi-cluster core	13	18	2
+69	69	Multi-cluster core	29	8	4
+70	70	Multi-cluster core	31	14	3
+71	71	Multi-cluster core	5	1	2
+72	72	Multi-cluster core	66	10	3
+73	73	Multi-cluster core	97	14	2
+74	74	Multi-cluster core	22	2	5
+75	75	Multi-cluster core	64	8	2
+76	76	Multi-cluster core	90	15	3
+77	77	Multi-cluster core	20	1	2
+78	78	Multi-cluster core	0	0	17
+79	79	Multi-cluster core	104	52	13
+80	80	Multi-cluster core	27	14	10
+81	81	Multi-cluster core	31	12	9
+82	82	Multi-cluster core	13	8	3
+83	83	Multi-cluster core	7	1	2
+84	84	Multi-cluster core	16	4	6
+85	85	Multi-cluster core	10	3	4
+86	86	Multi-cluster core	11	7	2
+87	87	Multi-cluster core	3	3	2
+88	88	Multi-cluster core	3	5	2
+89	89	Multi-cluster core	47	8	3
+90	90	Multi-cluster core	69	7	2
+91	91	Multi-cluster core	52	1	4
+92	92	Multi-cluster core	27	7	3
+93	93	Multi-cluster core	48	28	2
+1	22	Multi-cluster intermediate	8	0	1
+2	39	Multi-cluster intermediate	16	0	1
+3	14	Multi-cluster intermediate	8	0	1
+4	6	Multi-cluster intermediate	17	0	1
+5	5	Multi-cluster intermediate	20	0	1
+6	48	Multi-cluster intermediate	29	1	1
+7	15	Multi-cluster intermediate	38	1	1
+8	26	Multi-cluster intermediate	10	0	1
+9	32	Multi-cluster intermediate	13	0	1
+10	42	Multi-cluster intermediate	0	2	1
+11	24	Multi-cluster intermediate	6	0	1
+12	36	Multi-cluster intermediate	6	1	1
+13	8	Multi-cluster intermediate	31	1	1
+14	34	Multi-cluster intermediate	39	1	1
+15	9	Multi-cluster intermediate	33	1	1
+16	40	Multi-cluster intermediate	9	0	1
+17	30	Multi-cluster intermediate	11	0	1
+18	45	Multi-cluster intermediate	12	0	1
+19	12	Multi-cluster intermediate	10	1	1
+20	28	Multi-cluster intermediate	8	0	1
+21	35	Multi-cluster intermediate	1	0	1
+22	23	Multi-cluster intermediate	32	0	1
+23	10	Multi-cluster intermediate	18	1	1
+24	16	Multi-cluster intermediate	6	0	1
+25	1	Multi-cluster intermediate	3	1	1
+26	46	Multi-cluster intermediate	3	7	1
+27	37	Multi-cluster intermediate	5	0	1
+28	7	Multi-cluster intermediate	7	0	1
+29	19	Multi-cluster intermediate	4	8	1
+30	51	Multi-cluster intermediate	2	8	1
+31	17	Multi-cluster intermediate	12	2	1
+32	41	Multi-cluster intermediate	6	0	1
+33	11	Multi-cluster intermediate	13	0	1
+34	25	Multi-cluster intermediate	26	0	1
+35	18	Multi-cluster intermediate	7	3	1
+36	4	Multi-cluster intermediate	2	1	1
+37	29	Multi-cluster intermediate	10	3	1
+38	3	Multi-cluster intermediate	10	0	1
+39	13	Multi-cluster intermediate	6	0	1
+40	27	Multi-cluster intermediate	18	0	1
+41	47	Multi-cluster intermediate	9	0	1
+42	2	Multi-cluster intermediate	1	2	1
+43	20	Multi-cluster intermediate	4	0	1
+44	44	Multi-cluster intermediate	2	0	1
+45	33	Multi-cluster intermediate	7	1	1
+46	38	Multi-cluster intermediate	2	0	1
+47	31	Multi-cluster intermediate	3	1	1
+48	48	Multi-cluster intermediate	0	0	47
+49	49	Multi-cluster intermediate	0	0	30
+50	50	Multi-cluster intermediate	0	0	25
+51	51	Multi-cluster intermediate	0	0	22
+52	52	Multi-cluster intermediate	0	0	18
+53	53	Multi-cluster intermediate	0	1	16
+54	54	Multi-cluster intermediate	1	0	15
+55	55	Multi-cluster intermediate	3	0	2
+56	56	Multi-cluster intermediate	0	0	13
+57	57	Multi-cluster intermediate	1	0	2
+58	58	Multi-cluster intermediate	1	0	11
+59	59	Multi-cluster intermediate	2	0	3
+60	60	Multi-cluster intermediate	35	1	2
+61	61	Multi-cluster intermediate	1	0	8
+62	62	Multi-cluster intermediate	0	0	6
+63	63	Multi-cluster intermediate	1	2	5
+64	64	Multi-cluster intermediate	0	0	2
+65	65	Multi-cluster intermediate	0	0	3
+66	66	Multi-cluster intermediate	8	0	2
+67	67	Multi-cluster intermediate	0	0	2
+68	68	Multi-cluster intermediate	10	0	2
+69	69	Multi-cluster intermediate	2	0	4
+70	70	Multi-cluster intermediate	2	0	3
+71	71	Multi-cluster intermediate	13	0	2
+72	72	Multi-cluster intermediate	3	0	3
+73	73	Multi-cluster intermediate	19	0	2
+74	74	Multi-cluster intermediate	7	0	5
+75	75	Multi-cluster intermediate	10	0	2
+76	76	Multi-cluster intermediate	9	0	3
+77	77	Multi-cluster intermediate	0	0	2
+78	78	Multi-cluster intermediate	0	0	17
+79	79	Multi-cluster intermediate	0	0	13
+80	80	Multi-cluster intermediate	0	0	10
+81	81	Multi-cluster intermediate	3	0	9
+82	82	Multi-cluster intermediate	3	0	3
+83	83	Multi-cluster intermediate	11	0	2
+84	84	Multi-cluster intermediate	1	0	6
+85	85	Multi-cluster intermediate	0	0	4
+86	86	Multi-cluster intermediate	0	0	2
+87	87	Multi-cluster intermediate	0	0	2
+88	88	Multi-cluster intermediate	0	0	2
+89	89	Multi-cluster intermediate	4	0	3
+90	90	Multi-cluster intermediate	1	0	2
+91	91	Multi-cluster intermediate	0	0	4
+92	92	Multi-cluster intermediate	1	0	3
+93	93	Multi-cluster intermediate	6	0	2

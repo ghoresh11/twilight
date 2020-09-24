@@ -1,0 +1,6 @@
+[FAMILIES] # this is a comment
+- kdgK_2_1
+starting_gene_tree = /lustre/scratch118/infgen/team216/gh11/gene_distances/trees/kdgK_2_1.treefile
+alignment = /lustre/scratch118/infgen/team216/gh11/gene_distances/msas/kdgK_2_1_msa.fa
+mapping = /lustre/scratch118/infgen/team216/gh11/gene_distances/test_generax/links/kdgK_2_1.link
+subst_model = GTR+G

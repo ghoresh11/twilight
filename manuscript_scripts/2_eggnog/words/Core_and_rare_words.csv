@@ -1,0 +1,257 @@
+Class	COG	Word	Label	Count
+Core and rare	C	oxidoreductase fe-s	oxidoreductase fe-s	1
+Core and rare	C	alcohol dehydrogenase	alcohol dehydrogenase	1
+Core and rare	C	aldo keto reductase	aldo keto reductase	1
+Core and rare	C	electron transport ysaa	electron transport ysaa	1
+Core and rare	C	anaerobic c4-dicarboxylate transporter	anaerobic c4-dicarboxylate tra	1
+Core and rare	C	formate hydrogenlyase complex iron-sulfur	formate hydrogenlyase complex 	1
+Core and rare	C	aconitate hydratase	aconitate hydratase	1
+Core and rare	C	catalyzes reduction 23-diketo-l-gulonate presence nadh form 3-keto-l-gulonate	catalyzes reduction 23-diketo-	1
+Core and rare	C	acetyl-coa hydrolase	acetyl-coa hydrolase	2
+Core and rare	C	lyase containing heat-repeat	lyase containing heat-repeat	1
+Core and rare	C	nadh ubiquinone oxidoreductase 20 kda	nadh ubiquinone oxidoreductase	2
+Core and rare	E	peptidase t	peptidase t	1
+Core and rare	E	peptidyl-dipeptidase dcp	peptidyl-dipeptidase dcp	1
+Core and rare	E	catalyzes nad-dependent reduction succinylglutamate semialdehyde succinylglutamate	catalyzes nad-dependent reduct	1
+Core and rare	E	valine-pyruvate transaminase	valine-pyruvate transaminase	1
+Core and rare	E	l-seryl-trna selenium transferase	l-seryl-trna selenium transfer	1
+Core and rare	E	tryptophan transporter low affinity	tryptophan transporter low aff	1
+Core and rare	E	urea transporter	urea transporter	1
+Core and rare	E	amino acid carrier	amino acid carrier	1
+Core and rare	E	l-asparagine permease	l-asparagine permease	2
+Core and rare	E	l-tryptophan indole-lyase	l-tryptophan indole-lyase	1
+Core and rare	E	aspartate ammonia-lyase	aspartate ammonia-lyase	1
+Core and rare	E	argininosuccinate lyase	argininosuccinate lyase	1
+Core and rare	D	toxin hemolytic activity towards mammalian cells. acts forming pore-like structure upon contact mammalian cells	toxin hemolytic activity towar	1
+Core and rare	G	glucose galactose transporter	glucose galactose transporter	1
+Core and rare	G	toxin-antitoxin biofilm	toxin-antitoxin biofilm	2
+Core and rare	G	sucrose-6-phosphate hydrolase	sucrose-6-phosphate hydrolase	1
+Core and rare	G	transport permease	transport permease	1
+Core and rare	G	l-fuculose phosphate aldolase	l-fuculose phosphate aldolase	1
+Core and rare	G	glycosyl hydrolase 25	glycosyl hydrolase 25	1
+Core and rare	G	abc transporter	abc transporter	1
+Core and rare	G	pts cellobiose arbutin salicin-specific transporter	pts cellobiose arbutin salicin	1
+Core and rare	G	pts galactitol-specific	pts galactitol-specific	1
+Core and rare	G	fimbrial-like adhesin	fimbrial-like adhesin	1
+Core and rare	G	pts sucrose-specific	pts sucrose-specific	1
+Core and rare	G	major facilitator	major facilitator	3
+Core and rare	G	d-xylose transporter xylf	d-xylose transporter xylf	2
+Core and rare	G	sucrose porin	sucrose porin	1
+Core and rare	G	altronate dehydratase	altronate dehydratase	1
+Core and rare	G	periplasmic alpha-amylase	periplasmic alpha-amylase	1
+Core and rare	G	sucrose phosphorylase	sucrose phosphorylase	1
+Core and rare	G	unknown duf386	unknown duf386	1
+Core and rare	G	aminoimidazole riboside kinase	aminoimidazole riboside kinase	1
+Core and rare	G	sugar efflux transporter	sugar efflux transporter	1
+Core and rare	F	cytosine purines uracil thiamine allantoin permease	cytosine purines uracil thiami	1
+Core and rare	F	dihydro-orotase ec 3.5.2.3	dihydro-orotase ec 3.5.2.3	1
+Core and rare	F	bifunctional 23-cyclic nucleotide 2-phosphodiesterase 3-nucleotidase periplasmic	bifunctional 23-cyclic nucleot	1
+Core and rare	F	nucleoside hydrolase	nucleoside hydrolase	1
+Core and rare	F	purine permease ybby	purine permease ybby	1
+Core and rare	I	short-chain dehydrogenase reductase	short-chain dehydrogenase redu	1
+Core and rare	I	short chain fatty acid transporter	short chain fatty acid transpo	1
+Core and rare	I	catalyzes final step fatty acid oxidation acetyl-coa released coa ester fatty acid two carbons shorter formed	catalyzes final step fatty aci	1
+Core and rare	I	long-chain fatty acid transport	long-chain fatty acid transpor	1
+Core and rare	I	fatty acid	fatty acid	4
+Core and rare	H	catalyzes acyloin condensation reaction between c atoms 2 3 pyruvate glyceraldehyde 3-phosphate yield 1-deoxy-d-xylulose-5-phosphate dxp	catalyzes acyloin condensation	1
+Core and rare	K	gntr transcriptional regulator	gntr transcriptional regulator	1
+Core and rare	K	parb nuclease	parb nuclease	1
+Core and rare	K	phage shock	phage shock	1
+Core and rare	K	4-hydroxyphenylacetate catabolism regulatory hpaa	4-hydroxyphenylacetate catabol	1
+Core and rare	K	transcriptional regulator arsr	transcriptional regulator arsr	1
+Core and rare	K	ogrdelta-like zinc finger	ogrdelta-like zinc finger	1
+Core and rare	K	transcriptional regulator	transcriptional regulator	19
+Core and rare	K	lysr transcriptional regulator	lysr transcriptional regulator	1
+Core and rare	K	sucrose operon repressor	sucrose operon repressor	1
+Core and rare	K	cog antirepressor	cog antirepressor	1
+Core and rare	K	transcriptional regulator lysr	transcriptional regulator lysr	1
+Core and rare	K	transcriptional regulator arac	transcriptional regulator arac	1
+Core and rare	K	bacterial transcriptional regulator	bacterial transcriptional regu	1
+Core and rare	K	phage transcriptional regulator alpa	phage transcriptional regulato	3
+Core and rare	K	unknown duf955	unknown duf955	1
+Core and rare	M	lipopolysaccharide n-acetylglucosaminyltransferase activity	lipopolysaccharide n-acetylglu	1
+Core and rare	M	udp-glucose 6-dehydrogenase	udp-glucose 6-dehydrogenase	1
+Core and rare	M	outer membrane autotransporter	outer membrane autotransporter	2
+Core and rare	M	porin gram-negative type	porin gram-negative type	2
+Core and rare	M	tail assembly	tail assembly	1
+Core and rare	M	lipopolysaccharide 12-n-acetylglucosaminetransferase	lipopolysaccharide 12-n-acetyl	1
+Core and rare	M	lipopolysaccharide biosynthesis o-acetyl transferase	lipopolysaccharide biosynthesi	1
+Core and rare	M	--o-antigen ligase	--o-antigen ligase	1
+Core and rare	M	glycosyltransferase involved transfer udp-galf udp-glucose	glycosyltransferase involved t	1
+Core and rare	M	type vi secretion icmf	type vi secretion icmf	1
+Core and rare	M	rhs element vgr	rhs element vgr	1
+Core and rare	M	cog transglycosylase	cog transglycosylase	1
+Core and rare	M	antigen 43	antigen 43	1
+Core and rare	M	yd repeat	yd repeat	1
+Core and rare	M	glycosyl transferase	glycosyl transferase	4
+Core and rare	M	adds o-antigen glucose group lps	adds o-antigen glucose group l	1
+Core and rare	M	lipopolysaccharide 12-glucosyltransferase	lipopolysaccharide 12-glucosyl	1
+Core and rare	M	outer membrane usher	outer membrane usher	5
+Core and rare	M	glycosyl transferase group 1	glycosyl transferase group 1	1
+Core and rare	M	lipopolysaccharide core biosynthesis	lipopolysaccharide core biosyn	2
+Core and rare	M	adhesin virulence factor hek	adhesin virulence factor hek	1
+Core and rare	M	aspartate racemase	aspartate racemase	1
+Core and rare	M	lipoprotein yafl	lipoprotein yafl	1
+Core and rare	M	dtdp-4-dehydrorhamnose 35-epimerase	dtdp-4-dehydrorhamnose 35-epim	1
+Core and rare	M	udp-glucose 4-epimerase	udp-glucose 4-epimerase	1
+Core and rare	L	istb atp-binding	istb atp-binding	1
+Core and rare	L	dna-invertase lambdoid prophage	dna-invertase lambdoid prophag	2
+Core and rare	L	prophage primase	prophage primase	1
+Core and rare	L	integrase core	integrase core	1
+Core and rare	L	cytosine-specific methyltransferase	cytosine-specific methyltransf	2
+Core and rare	L	replication o	replication o	1
+Core and rare	L	glycosylase ii	glycosylase ii	1
+Core and rare	L	is629 orf1	is629 orf1	1
+Core and rare	L	cog transposase	cog transposase	1
+Core and rare	L	iscro1 transposase b	iscro1 transposase b	1
+Core and rare	L	sulfur modification dndd	sulfur modification dndd	1
+Core and rare	L	integrase recombinase xerc xerd	integrase recombinase xerc xer	1
+Core and rare	L	moba mobl	moba mobl	1
+Core and rare	L	integrase catalytic	integrase catalytic	1
+Core and rare	L	mule transposase	mule transposase	1
+Core and rare	L	crispr clustered regularly interspaced short palindromic repeat adaptive immune provides protection against mobile genetic elements viruses transposable elements conjugative plasmids. crispr clusters contain sequences complementary antecedent mobile elements target invading nucleic acids. crispr clusters transcribed processed crispr rna crrna. acts dsdna endonuclease. involved integration spacer crispr cassette	crispr clustered regularly int	1
+Core and rare	L	dnab-like helicase n terminal	dnab-like helicase n terminal	1
+Core and rare	L	crispr-associated cas2	crispr-associated cas2	1
+Core and rare	L	539 539 genpept.129 gb aal57569.1 af45344153 af453441 transposase escherichia coli	539 539 genpept.129 gb aal5756	1
+Core and rare	O	formate hydrogenlyase maturation	formate hydrogenlyase maturati	1
+Core and rare	O	cleaves type-4 fimbrial leader sequence methylates n-terminal generally phe residue	cleaves type-4 fimbrial leader	1
+Core and rare	O	sel1 repeat	sel1 repeat	1
+Core and rare	O	hydrogenase 3 maturation protease	hydrogenase 3 maturation prote	1
+Core and rare	O	protease act efficient specific deubiquitinating enzyme vitro. possess desumoylating deneddylating activities. physiological substrate	protease act efficient specifi	1
+Core and rare	O	tail assembly chaperone	tail assembly chaperone	1
+Core and rare	N	tail component prophage	tail component prophage	1
+Core and rare	N	cleaves type-4 fimbrial leader sequence methylates n-terminal generally phe residue	cleaves type-4 fimbrial leader	1
+Core and rare	Q	short-chain dehydrogenase reductase	short-chain dehydrogenase redu	1
+Core and rare	P	iron transport membrane	iron transport membrane	1
+Core and rare	P	atp-binding component transport	atp-binding component transpor	1
+Core and rare	P	integral membrane terc	integral membrane terc	1
+Core and rare	S	siphovirus gp157	siphovirus gp157	1
+Core and rare	S	unknown duf2971	unknown duf2971	1
+Core and rare	S	espa-like secreted	espa-like secreted	1
+Core and rare	S	pronog atp-binding	pronog atp-binding	1
+Core and rare	S	late control d	late control d	1
+Core and rare	S	filamentation induced camp fic	filamentation induced camp fic	1
+Core and rare	S	collagen triple helix repeat	collagen triple helix repeat	1
+Core and rare	S	prophage lambdaw5 minor tail z	prophage lambdaw5 minor tail z	1
+Core and rare	S	leucine rich repeat variant	leucine rich repeat variant	1
+Core and rare	S	exodeoxyribonuclease viii	exodeoxyribonuclease viii	1
+Core and rare	S	dna-damage-inducible d	dna-damage-inducible d	1
+Core and rare	S	n-6 methylase	n-6 methylase	3
+Core and rare	S	unknown duf2591	unknown duf2591	1
+Core and rare	S	uncharacterized yegk	uncharacterized yegk	1
+Core and rare	S	putative transcription regulator duf1323	putative transcription regulat	1
+Core and rare	S	unknown duf1076	unknown duf1076	4
+Core and rare	S	conserved inner membrane	conserved inner membrane	1
+Core and rare	S	peptidase m66	peptidase m66	1
+Core and rare	S	unknown duf2612	unknown duf2612	1
+Core and rare	S	tail assembly	tail assembly	1
+Core and rare	S	chromosome segregation atpase	chromosome segregation atpase	1
+Core and rare	S	conserved phage c-terminus phg2220c	conserved phage c-terminus phg	1
+Core and rare	S	regulatory prophage	regulatory prophage	1
+Core and rare	S	inner membrane yiei	inner membrane yiei	1
+Core and rare	S	tail tube	tail tube	1
+Core and rare	S	prophage membrane	prophage membrane	1
+Core and rare	S	anaerobic c4-dicarboxylate membrane transporter dcua	anaerobic c4-dicarboxylate mem	1
+Core and rare	S	sodiumdicarboxylate symporter	sodiumdicarboxylate symporter	1
+Core and rare	S	unknown duf1877	unknown duf1877	1
+Core and rare	S	host specificity	host specificity	3
+Core and rare	S	type vi secretion evpb vca0108	type vi secretion evpb vca0108	1
+Core and rare	S	shows phosphodiesterase activity hydrolyzing phosphodiester bond artificial chromogenic substrate bis-p- nitrophenyl phosphate bis-pnpp	shows phosphodiesterase activi	1
+Core and rare	S	k13735 adhesin invasin	k13735 adhesin invasin	3
+Core and rare	S	unknown duf1016	unknown duf1016	1
+Core and rare	S	unknown duf1019	unknown duf1019	1
+Core and rare	S	large extracellular alpha-helical	large extracellular alpha-heli	1
+Core and rare	S	transition metal ion binding	transition metal ion binding	1
+Core and rare	S	type-1 fimbrial	type-1 fimbrial	1
+Core and rare	S	replicase ec 2.7	replicase ec 2.7	1
+Core and rare	S	unknown duf3279	unknown duf3279	1
+Core and rare	S	baseplate assembly	baseplate assembly	4
+Core and rare	S	type vi secretion	type vi secretion	6
+Core and rare	S	abc transporter permease	abc transporter permease	1
+Core and rare	S	type vi secretion vca0111	type vi secretion vca0111	1
+Core and rare	S	mismatch repair	mismatch repair	1
+Core and rare	S	rhs element vgr	rhs element vgr	1
+Core and rare	S	anaerobic c4-dicarboxylate transporter dcub	anaerobic c4-dicarboxylate tra	2
+Core and rare	S	terminase large	terminase large	1
+Core and rare	S	polarity suppression	polarity suppression	1
+Core and rare	S	unknown duf3440	unknown duf3440	1
+Core and rare	S	p2 gpu	p2 gpu	1
+Core and rare	S	short-chain dehydrogenase reductase sdr	short-chain dehydrogenase redu	1
+Core and rare	S	unknown duf3296	unknown duf3296	1
+Core and rare	S	cog gtp-binding	cog gtp-binding	1
+Core and rare	S	uncharacterized ymgc	uncharacterized ymgc	1
+Core and rare	S	type vi secretion lysozyme-related	type vi secretion lysozyme-rel	1
+Core and rare	S	unknown duf1281	unknown duf1281	1
+Core and rare	S	phage capsid	phage capsid	1
+Core and rare	S	unknown duf1524	unknown duf1524	2
+Core and rare	S	type vi secretion effector hcp1	type vi secretion effector hcp	1
+Core and rare	S	tail component prophage cp-933k	tail component prophage cp-933	1
+Core and rare	S	unknown duf87	unknown duf87	1
+Core and rare	S	blockage overcome subsequent expression antitoxin higa. overexpression causes cleavage number mrnas translation-dependent fashion suggesting mrna interferase	blockage overcome subsequent e	1
+Core and rare	S	tail length tape measure	tail length tape measure	1
+Core and rare	S	patatin-like phospholipase	patatin-like phospholipase	1
+Core and rare	S	antitermination q	antitermination q	1
+Core and rare	S	uncharacterized conserved bacteria duf2136	uncharacterized conserved bact	1
+Core and rare	S	type vi secretion vca0107	type vi secretion vca0107	1
+Core and rare	S	orf cn004	orf cn004	1
+Core and rare	S	pronog phage p2 baseplate assembly gpv	pronog phage p2 baseplate asse	1
+Core and rare	S	unknown duf1341	unknown duf1341	1
+Core and rare	S	capsid morphogenesis encoded cp-933i	capsid morphogenesis encoded c	1
+Core and rare	S	phage regulatory rha	phage regulatory rha	1
+Core and rare	S	upf0401 ykff	upf0401 ykff	1
+Core and rare	S	conjugal transfer	conjugal transfer	1
+Core and rare	S	plasmid maintenance killer	plasmid maintenance killer	1
+Core and rare	S	capsid prophage	capsid prophage	1
+Core and rare	S	beta-lactam resistance	beta-lactam resistance	1
+Core and rare	S	unknown duf2544	unknown duf2544	1
+Core and rare	S	phage tail tape measure	phage tail tape measure	1
+Core and rare	S	unknown duf551	unknown duf551	1
+Core and rare	S	unknown duf550	unknown duf550	2
+Core and rare	S	large repetitive	large repetitive	1
+Core and rare	S	pronog hica	pronog hica	1
+Core and rare	S	residues 178 214 214 78.37 pct identical residues 1 37 37 genpept.129 gb aal57577.1 af4534426 af453442	residues 178 214 214 78.37 pct	1
+Core and rare	S	zonular occludens toxin zot	zonular occludens toxin zot	1
+Core and rare	S	upf0412 yaai	upf0412 yaai	1
+Core and rare	S	toxic component toxin-antitoxin ta module. sequence-specific mrna endoribonuclease inhibits translation elongation induces bacterial stasis. cleavage occurs between second third residue lys codon followed g 5aaag a3 reading-frame dependent occurs within 5 end mrnas. ribosome-binding confers sequence specificity reading frame-dependence. overexpressed liquid media yafq partially inhibits synthesis reduction growth rate colony growth rate. effect counteracted coexpression dinj yafq antitoxin. yafq dinj together bind promoter analogy ta modules probably repress expression	toxic component toxin-antitoxi	1
+Core and rare	S	leucine-rich repeat	leucine-rich repeat	1
+Core and rare	S	response damage stimulus	response damage stimulus	1
+Core and rare	S	unknown duf968	unknown duf968	1
+Core and rare	S	accessory colonization factor acfd	accessory colonization factor 	1
+Core and rare	S	sel1 repeat	sel1 repeat	1
+Core and rare	S	cog ankyrin repeat	cog ankyrin repeat	1
+Core and rare	S	unknown duf1133	unknown duf1133	1
+Core and rare	S	inner membrane yiaa	inner membrane yiaa	1
+Core and rare	S	pronog sulfur modification dndb	pronog sulfur modification dnd	1
+Core and rare	S	tail fiber	tail fiber	4
+Core and rare	S	type vi secretion-associated	type vi secretion-associated	1
+Core and rare	U	collagen triple helix repeat 20 copies	collagen triple helix repeat 2	1
+Core and rare	U	outer membrane autotransporter	outer membrane autotransporter	2
+Core and rare	U	involved type ii secretion t2ss formerly general secretion pathway gsp export proteins	involved type ii secretion t2s	1
+Core and rare	U	oligogalacturonide lyase	oligogalacturonide lyase	1
+Core and rare	U	cbld pilus biogenesis initiator	cbld pilus biogenesis initiato	1
+Core and rare	U	antigen 43	antigen 43	1
+Core and rare	U	cleaves type-4 fimbrial leader sequence methylates n-terminal generally phe residue	cleaves type-4 fimbrial leader	1
+Core and rare	U	general secretion pathway	general secretion pathway	8
+Core and rare	U	general secretion pathway j	general secretion pathway j	1
+Core and rare	U	general secretion pathway h	general secretion pathway h	1
+Core and rare	U	general secretion pathway f	general secretion pathway f	2
+Core and rare	U	general secretion pathway d	general secretion pathway d	1
+Core and rare	U	general secretion pathway c	general secretion pathway c	1
+Core and rare	U	atp-binding component transport	atp-binding component transpor	2
+Core and rare	U	type ii secretion k	type ii secretion k	1
+Core and rare	U	filamentous hemagglutinin outer membrane	filamentous hemagglutinin oute	1
+Core and rare	U	conjugal transfer	conjugal transfer	1
+Core and rare	T	transcriptional regulatory	transcriptional regulatory	1
+Core and rare	T	histidine kinase	histidine kinase	1
+Core and rare	T	fha domain-containing	fha domain-containing	1
+Core and rare	T	phage shock	phage shock	1
+Core and rare	W	collagen type alpha 1	collagen type alpha 1	1
+Core and rare	W	collagen triple helix repeat 20 copies	collagen triple helix repeat 2	1
+Core and rare	V	hsdm n-terminal	hsdm n-terminal	1
+Core and rare	V	hnh endonuclease	hnh endonuclease	2
+Core and rare	V	type site-specific deoxyribonuclease	type site-specific deoxyribonu	1
+Core and rare	V	type restriction-modification	type restriction-modification	7
+Core and rare	V	type restriction enzyme	type restriction enzyme	1
+Core and rare	V	type restriction modification specificity	type restriction modification 	1
+Core and rare	V	bsubipsti restriction endonuclease c-terminus	bsubipsti restriction endonucl	1
+Core and rare	V	type restriction-modification s	type restriction-modification 	2
