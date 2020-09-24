@@ -55,6 +55,17 @@ grouping = read.table(input_grouping_file, sep =  "\t", comment.char = "", strin
 colnames(grouping) = c("ID","grouping")
 
 
+## check if all the genomes in groups are in presence_absence
+missing =  which(!grouping$ID %in% colnames(complete_presence_absence))
+
+
+if (length(missing) > 0)  {
+  missing = grouping$ID[missing]
+  print(missing)
+  warning(paste("The IDs of",length(missing),"in the grouping file do not match the IDs in the presence absence file!"))
+}
+
+
 ## The column with the genome names is called ID in my casgroups = unique(grouping$grouping)  ## names of groups
 group_sizes = table(grouping$grouping)
 
@@ -95,7 +106,7 @@ classification = data.frame(gene_name = gene_names,
 
 ## loop to count for each gene -> this takes a while
 for (i in 1:dim(classification)[1]) {
-  print(paste("Calculating values for gene in index:", i, "...", sep = ""))
+  print(paste("Calculating values for gene in index: ", i, " of ", dim(classification)[1],"...", sep = ""))
   curr_freqs = group_freqs[i,] ## get the frequencies of current gene
   ## count how many core/inter/rare
   core = colnames(curr_freqs)[which(curr_freqs >= core_thresold)]
@@ -113,6 +124,8 @@ for (i in 1:dim(classification)[1]) {
   classification$total[i] = length(c(core, rare, inter))
 }
 
+write.table(classification, file = output_classification_table, sep = "\t", col.names = T, row.names = F, quote = F)
+
 ## now the genes can be classified based on their total presence
 
 ## First classify generall into varied, core, inter and rare (see my schematic)
@@ -120,7 +133,7 @@ classification$general_class = rep("Varied", dim(classification)[1]) ## initiate
 classification$general_class[which(classification$core == classification$total)] = "Core"  ##always core
 classification$general_class[which(classification$inter == classification$total)] = "Intermediate" ## always inter
 classification$general_class[which(classification$rare == classification$total)] = "Rare" ## always rare
-classification$general_class[which(classification$total == 0)] = "Absent"
+classification$general_class[which(classification$total == 0)] = "Absent in large lineages"
 
 ## Now sub-classify based on the precise combinations -> as you can see it's not very clever!
 classification$specific_class = rep("Core, intermediate and rare", dim(classification)[1])
@@ -136,7 +149,7 @@ classification$specific_class[which(classification$general_class == "Rare" & cla
 classification$specific_class[which(classification$general_class == "Varied" & classification$rare == 0)] = "Core and intermediate"
 classification$specific_class[which(classification$general_class == "Varied" & classification$inter == 0)] = "Core and rare"
 classification$specific_class[which(classification$general_class == "Varied" & classification$core == 0)] = "Intermediate and rare"
-classification$specific_class[which(classification$general_class == "Absent")] = "Absent"
+classification$specific_class[which(classification$general_class == "Absent in large lineages")] = "Absent in large lineages"
 
 
 ## finally, save the file
@@ -177,9 +190,10 @@ if (!dir.exists(plots_out)) { dir.create(plots_out) }
 colours = data.frame(
   Class = c( "Lineage specific core","Multi-lineage core", "Collection core","Lineage specific intermediate",
              "Multi-lineage intermediate","Collection intermediate","Lineage specific rare", "Multi-lineage rare" ,
-             "Collection rare", "Intermediate and rare","Core, intermediate and rare","Core and rare", "Core and intermediate"),
+             "Collection rare", "Intermediate and rare","Core, intermediate and rare","Core and rare", "Core and intermediate",
+             "Absent in large lineages"),
   Colour = c("#542788","#8c96c6","#08519c","#fa9fb5","#c51b8a","#7d1158",
-             "#fec44f","#d95f0e","#b1300b","#edf8e9","#bae4b3","#74c476","#238b45"), stringsAsFactors = F
+             "#fec44f","#d95f0e","#b1300b","#edf8e9","#bae4b3","#74c476","#238b45", "#d3d3d3"), stringsAsFactors = F
 )
 
 classification$label = paste(classification$total, "/", num_groups ,sep ="")
@@ -215,11 +229,11 @@ mean_without_zeros <- function(x) {
   return(mean(x))
 }
 classification$means =  apply(X = group_freqs, 1, FUN = mean_without_zeros)
-
-C = ggplot(classification, aes(y = means, x = label, fill = specific_class)) + geom_hex(bins = num_groups*2)+
+classification$jitter_total = jitter(classification$total, amount = 0.1)
+C =  ggplot(classification, aes(y = means, x = jitter_total, fill = specific_class)) + geom_hex(bins = 60)+
   scale_fill_manual(values = colours$Colour, name = "Distribution\nclass", drop = F) + theme_classic(base_size = 12) +
   ylab("Mean frequency\nwhen present") + xlab("Number of lineages in\nwhich gene is present") + 
-  theme(axis.text.x = element_text(angle = 90, hjust = 1)) 
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) + scale_x_continuous(breaks = 1:num_groups)
 ggsave(C, filename = file.path(plots_out, "hex_plain.pdf"), height = 5, width= 7)
 
 
@@ -252,9 +266,12 @@ if (!dir.exists(plots_out)) { dir.create(plots_out) }
 
 for (curr_class in unique(genes_per_isolate$class)) {
   curr = genes_per_isolate[genes_per_isolate$class == curr_class,]
+  curr$cluster = factor(curr$cluster, names(sort(group_sizes, decreasing = T)))
+  med_all = median(aggregate(by = list(curr$cluster), x = curr$count, FUN = median)$x)
   p = ggplot(curr, aes(x = cluster, y = count)) + geom_boxplot(fill = "#eeeeee") +
     theme_classic(base_size = 12) + ylab(paste("Number of  '", curr_class, "'  genes\nper genome", sep = "")) +
-    xlab("Group")
+    xlab("Group") + theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) +
+    geom_hline(yintercept = med_all, col = "red")
   out_file =  file.path(plots_out, paste(gsub(curr_class, pattern =  " ", replacement = "_"), ".pdf",sep = ""))
   ggsave(plot = p, filename = out_file,
          height = 5, width= 7)
