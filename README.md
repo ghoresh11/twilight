@@ -1,6 +1,6 @@
 # The twilight zone of the pan-genome
 
-## To classify your own pan-genome analsis:
+## To classify your own pan-genome:
 
 To apply a similar analysis on the output of a pan-genome analysis using tools such as Roary (1) or Panaroo (2), you must provide:
 
