@@ -24,7 +24,7 @@ Examples are available in the directory `test_sets/`
 
 `-c, --core_threshold` : Threshold used to define a core gene within each group (default = 0.95).
 
-`-r, --rare_threshold` : Threshold used to define a core gene within each group (default = 0.15).
+`-r, --rare_threshold` : Threshold used to define a rare gene within each group (default = 0.15).
 
 `-h, --help` : print help message and quit.
 
@@ -33,11 +33,11 @@ Examples are available in the directory `test_sets/`
 
 A number of files are generated in the `out` directory as follows:
 
-1. `classification.tab` = A table with the classification of all genes based on the new definitions. Including how many times each gene was observed as core, intermediate or rare and in which lineages.
+1. `classification.tab` = A table with the classification of all genes based on the new definitions. Including how many times each gene was observed as core, intermediate or rare and in which groups.
 
-2. `frequencies.csv` = A table stating the precise frequency of each gene in each of the groups
+2. `frequencies.csv` = A table stating the precise frequency of each gene in each of the groups.
 
-3. `genes_per_isolate.tab` = A table stating for each genome in the collection, how many genes from each of the distribution classes were present in its genome. Useful for measuing a typical genome in the collection and per group.
+3. `genes_per_isolate.tab` = A table stating for each genome in the collection, how many genes from each of the distribution classes were present in its genome. Useful for measuring a typical genome in the collection and per group.
 
 4. `plots` = a directory containing the same figures from the manuscript. The `typical_per_class` directory has a plot for each distribution class, and shows how many genes from that class were present in a single genome from each group. The `pca_per_class` presents a PCA analysis on the gene frequencies for each distribution class.
 
