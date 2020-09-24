@@ -1,5 +1,18 @@
 # The twilight zone of the pan-genome
 
+Apply an analysis similar to the one in DOI...
+
+## Requirements
+
+- R
+
+R packages:
+- data.table
+- ggplot2
+- optparse
+
+
+
 ## To classify your own pan-genome:
 
 To apply a similar analysis on the output of a pan-genome analysis using tools such as Roary (1) or Panaroo (2), you must provide:
