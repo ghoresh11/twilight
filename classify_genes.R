@@ -93,7 +93,8 @@ for (group in groups_to_keep) {
 ## save the frequency table -> this is quite useful
 rownames(group_freqs) = gene_names
 
-write.table(x = group_freqs, file = output_frequnecy_matrix, sep = ',', col.names = T, row.names = T, quote = F)
+write.table(x = data.frame(Gene = gene_names, group_freqs),
+            file = output_frequnecy_matrix, sep = ',', col.names = T, row.names = F, quote = F)
 
 # ## when debugging -> read in a table
 # group_freqs = read.table(file = "~/cholera_club/process_clustering/out/frequencies.csv", sep = ",", comment.char = "", stringsAsFactors = F,
