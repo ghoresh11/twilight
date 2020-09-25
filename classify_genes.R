@@ -94,6 +94,9 @@ rownames(group_freqs) = gene_names
 
 write.table(x = group_freqs, file = output_frequnecy_matrix, sep = ',', col.names = T, row.names = T, quote = F)
 
+# ## when debugging -> read in a table
+# group_freqs = read.table(file = "~/cholera_club/process_clustering/out/frequencies.csv", sep = ",", comment.char = "", stringsAsFactors = F,
+#            header = T)
 
 # initiate a dataframe for the output
 classification = data.frame(gene_name = gene_names,
@@ -124,8 +127,6 @@ for (i in 1:dim(classification)[1]) {
   classification$total[i] = length(c(core, rare, inter))
 }
 
-write.table(classification, file = output_classification_table, sep = "\t", col.names = T, row.names = F, quote = F)
-
 ## now the genes can be classified based on their total presence
 
 ## First classify generall into varied, core, inter and rare (see my schematic)
@@ -155,6 +156,8 @@ classification$specific_class[which(classification$general_class == "Absent in l
 ## finally, save the file
 write.table(classification, file = output_classification_table, sep = "\t", col.names = T, row.names = F, quote = F)
 
+# classification = read.table("~/cholera_club/process_clustering/out/classification.tab", sep = "\t", header = T,
+#                             comment.char = "", stringsAsFactors = F)
 
 ## Calculate typical values for the whole dataset, and for each lineage
 genes_per_isolate = data.frame(group = character(0),
@@ -179,6 +182,8 @@ for (curr in groups_to_keep) {
 }  
 
 write.table(genes_per_isolate, file = output_genes_per_isolate, sep = "\t", col.names = T, row.names = T, quote = F)
+# genes_per_isolate = read.table("~/cholera_club/process_clustering/out/genes_per_isolate.tab", sep = "\t",
+#                                comment.char = "", stringsAsFactors = F, header = T)
 
 ############# PLOTTING ############# 
 
@@ -229,13 +234,13 @@ mean_without_zeros <- function(x) {
   return(mean(x))
 }
 classification$means =  apply(X = group_freqs, 1, FUN = mean_without_zeros)
+classification$means[classification$total == 0] = NA
 classification$jitter_total = jitter(classification$total, amount = 0.1)
-C =  ggplot(classification, aes(y = means, x = jitter_total, fill = specific_class)) + geom_hex(bins = 60)+
+C =  ggplot(classification, aes(y = means, x = jitter_total, fill = specific_class)) + geom_hex(bins = 70)+
   scale_fill_manual(values = colours$Colour, name = "Distribution\nclass", drop = F) + theme_classic(base_size = 12) +
   ylab("Mean frequency\nwhen present") + xlab("Number of lineages in\nwhich gene is present") + 
   theme(axis.text.x = element_text(angle = 90, hjust = 1)) + scale_x_continuous(breaks = 1:num_groups)
 ggsave(C, filename = file.path(plots_out, "hex_plain.pdf"), height = 5, width= 7)
-
 
 
 #### typical E. coli
@@ -279,6 +284,9 @@ for (curr_class in unique(genes_per_isolate$class)) {
 
 ## PCA plots
 create_pca_plot <- function(class, comp = F){
+  if (class %in% c("Absent in large lineages","Collection core",
+                   "Lineage specific rare", "Lineage specific core" , "Lineage specific intermediate" )){
+      return()}
   curr_freqs = group_freqs[which(rownames(group_freqs) %in% classification$gene_name[classification$specific_class == class]),]
   for_pca = t(curr_freqs)
   remove = c()
