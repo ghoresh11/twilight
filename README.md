@@ -54,3 +54,8 @@ A number of files are generated in the `out` directory as follows:
 
 4. `plots` = a directory containing the same figures from the manuscript. The `typical_per_class` directory has a plot for each distribution class, and shows how many genes from that class were present in a single genome from each group. The `pca_per_class` presents a PCA analysis on the gene frequencies for each distribution class.
 
+## Outputs:
+
+1. Andrew J. Page, Carla A. Cummins, Martin Hunt, Vanessa K. Wong, Sandra Reuter, Matthew T.G. Holden, Maria Fookes, Daniel Falush, Jacqueline A. Keane, Julian Parkhill, Roary: rapid large-scale prokaryote pan genome analysis, Bioinformatics, Volume 31, Issue 22, 15 November 2015, Pages 3691–3693, https://doi.org/10.1093/bioinformatics/btv421
+
+2. Tonkin-Hill, G., MacAlasdair, N., Ruis, C. et al. Producing polished prokaryotic pangenomes with the Panaroo pipeline. Genome Biol 21, 180 (2020). https://doi.org/10.1186/s13059-020-02090-4
