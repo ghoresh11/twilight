@@ -62,7 +62,8 @@ missing =  which(!grouping$ID %in% colnames(complete_presence_absence))
 if (length(missing) > 0)  {
   missing = grouping$ID[missing]
   print(missing)
-  warning(paste("The IDs of",length(missing),"in the grouping file do not match the IDs in the presence absence file!"))
+  warning(paste("The IDs of",length(missing),"names in the grouping file do not match the names in the presence absence file! (Written above this warning.)
+                \nIf all should be included, please correct these names to match between the two files."))
 }
 
 
