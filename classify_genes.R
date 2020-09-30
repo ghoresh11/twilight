@@ -18,7 +18,7 @@ option_list <- list(
               help="Threshold used to define a core gene within each group [default %default]",
               metavar="FLOAT"),
   make_option(c("-r", "--rare_threshold"), type="double", default=0.15, 
-              help="Threshold used to define a core gene within each group [default %default]",
+              help="Threshold used to define a rare gene within each group [default %default]",
               metavar="FLOAT")
 )
 
