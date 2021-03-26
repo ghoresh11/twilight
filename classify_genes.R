@@ -84,9 +84,10 @@ if (num_groups < 2) { stop("Not enough groups to compared with at least min_size
 
 ## deal with singleton genes
 if (remove_singletons)  {
-  complete_presence_absence = complete_presence_absence[rowSums(complete_presence_absence[,2:ncol(complete_presence_absence)])!=1,]  ## removes rows with sum 1 (genes present in only one genome) 
   num_singletons = length(unlist(complete_presence_absence[rowSums(complete_presence_absence[,2:ncol(complete_presence_absence)])==1,1])) ## count singletons
+  complete_presence_absence = complete_presence_absence[rowSums(complete_presence_absence[,2:ncol(complete_presence_absence)])!=1,]  ## removes rows with sum 1 (genes present in only one genome) 
   print(paste("Removed ", num_singletons, " singleton genes from analysis", sep = "")) ## report number of singletons removed
+  singleton_genes = c() ## set as blank
   } else {
   singleton_genes = as.character(unlist(complete_presence_absence[rowSums(complete_presence_absence[,2:ncol(complete_presence_absence)])==1,1])) ## list all singleton genes
 }
@@ -121,7 +122,7 @@ classification = data.frame(gene_name = gene_names,
                             core = rep(0, length(gene_names)),
                             inter = rep(0, length(gene_names)),
                             rare = rep(0, length(gene_names)),
-                            singleton = rep(0, length(gene_names))
+                            singleton = rep(0, length(gene_names)),
                             total = rep(0, length(gene_names)),
                             details = rep("", length(gene_names)), stringsAsFactors = F   )
 
@@ -134,7 +135,7 @@ for (i in 1:dim(classification)[1]) {
     core = character(0)
     inter = character(0)
     rare = character(0)
-    singleton = colnames(curr_freqs)[which(curr_freqs = 1)]
+    singleton = colnames(curr_freqs)[which(curr_freqs == 1)]
     
     classification$details[i] = paste("Core:", paste(core, collapse = "+"), 
                                       "Inter:", paste(inter, collapse = "+"), 
