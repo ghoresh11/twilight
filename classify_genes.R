@@ -135,7 +135,7 @@ for (i in 1:dim(classification)[1]) {
     core = character(0)
     inter = character(0)
     rare = character(0)
-    singleton = colnames(curr_freqs)[which(curr_freqs == 1)]
+    singleton = colnames(curr_freqs)[which(curr_freqs < rare_threshold & curr_freqs > 0)]
     
     classification$details[i] = paste("Core:", paste(core, collapse = "+"), 
                                       "Inter:", paste(inter, collapse = "+"), 
@@ -170,7 +170,7 @@ classification$general_class[which(classification$core == classification$total)]
 classification$general_class[which(classification$inter == classification$total)] = "Intermediate" ## always inter
 classification$general_class[which(classification$rare == classification$total)] = "Rare" ## always rare
 classification$general_class[which(classification$singleton == 1)] = "Singleton" ## always singleton
-classification$general_class[which(classification$total == 0)] = "Absent in large lineages"
+classification$general_class[which(classification$total == 0 & classification$singleton == 0)] = "Absent in large lineages"
 
 ## Now sub-classify based on the precise combinations -> as you can see it's not very clever!
 classification$specific_class = rep("Core, intermediate and rare", dim(classification)[1])
@@ -237,10 +237,15 @@ colours = data.frame(
   Class = c( "Lineage specific core","Multi-lineage core", "Collection core","Lineage specific intermediate",
              "Multi-lineage intermediate","Collection intermediate","Lineage specific rare", "Multi-lineage rare" ,
              "Collection rare", "Intermediate and rare","Core, intermediate and rare","Core and rare", "Core and intermediate",
-             "Singleton", "Absent in large lineages"),
+             "Absent in large lineages"),
   Colour = c("#542788","#8c96c6","#08519c","#fa9fb5","#c51b8a","#7d1158",
-             "#fec44f","#d95f0e","#b1300b","#edf8e9","#bae4b3","#74c476","#238b45", "#787878", "#d3d3d3"), stringsAsFactors = F 
-) ## added singletons as a darker grey than absents
+             "#fec44f","#d95f0e","#b1300b","#edf8e9","#bae4b3","#74c476","#238b45", "#d3d3d3"), stringsAsFactors = F 
+) 
+
+## add singletons as a darker grey than absents
+if (!remove_singletons) {
+  colours = rbind(colours, c("Singleton", "#787878"))
+}
 
 classification$label = paste(classification$total, "/", num_groups ,sep ="")
 classification$label = factor(classification$label, paste(1:num_groups, "/",num_groups,sep="")) 
