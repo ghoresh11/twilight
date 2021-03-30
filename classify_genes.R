@@ -19,7 +19,9 @@ option_list <- list(
               metavar="FLOAT"),
   make_option(c("-r", "--rare_threshold"), type="double", default=0.15, 
               help="Threshold used to define a rare gene within each group [default %default]",
-              metavar="FLOAT")
+              metavar="FLOAT"),
+  make_option(c("-x", "--remove_singletons"), action="store_true", default=FALSE,
+	      help="Remove singletons from analysis [default %default]")
 )
 
 
@@ -38,6 +40,8 @@ if (core_thresold > 1 || core_thresold < 0) { stop("Core threshold must be betwe
 rare_threshold = opt$rare_threshold
 if (rare_threshold > 1 || rare_threshold < 0) { stop("Rare threshold must be between 0 and 1")}
 if (rare_threshold >= core_thresold) { stop("Rare threshold must be smaller than core threshold") }
+
+remove_singletons = opt$remove_singletons
 
 ## check if output directory exists, and create if not
 if (!dir.exists(out)) { dir.create(out) }
@@ -78,6 +82,16 @@ num_groups = length(groups_to_keep) ## count how many groups there are
 
 if (num_groups < 2) { stop("Not enough groups to compared with at least min_size isolates! Try decreasing min_size to compare smaller groups.") }
 
+## deal with singleton genes
+if (remove_singletons)  {
+  num_singletons = length(unlist(complete_presence_absence[rowSums(complete_presence_absence[,2:ncol(complete_presence_absence)])==1,1])) ## count singletons
+  complete_presence_absence = complete_presence_absence[rowSums(complete_presence_absence[,2:ncol(complete_presence_absence)])!=1,]  ## removes rows with sum 1 (genes present in only one genome) 
+  print(paste("Removed ", num_singletons, " singleton genes from analysis", sep = "")) ## report number of singletons removed
+  singleton_genes = c() ## set as blank
+  } else {
+  singleton_genes = as.character(unlist(complete_presence_absence[rowSums(complete_presence_absence[,2:ncol(complete_presence_absence)])==1,1])) ## list all singleton genes
+}
+
 ## extract the names of the genes, they should be in the first column
 gene_names = as.character(unlist(complete_presence_absence[,1]))
 
@@ -108,6 +122,7 @@ classification = data.frame(gene_name = gene_names,
                             core = rep(0, length(gene_names)),
                             inter = rep(0, length(gene_names)),
                             rare = rep(0, length(gene_names)),
+                            singleton = rep(0, length(gene_names)),
                             total = rep(0, length(gene_names)),
                             details = rep("", length(gene_names)), stringsAsFactors = F   )
 
@@ -116,20 +131,35 @@ classification = data.frame(gene_name = gene_names,
 for (i in 1:dim(classification)[1]) {
   print(paste("Calculating values for gene in index: ", i, " of ", dim(classification)[1],"...", sep = ""))
   curr_freqs = group_freqs[i,] ## get the frequencies of current gene
-  ## count how many core/inter/rare
-  core = colnames(curr_freqs)[which(curr_freqs >= core_thresold)]
-  inter = colnames(curr_freqs)[which(curr_freqs < core_thresold & curr_freqs >= rare_threshold)]
-  rare = colnames(curr_freqs)[which(curr_freqs < rare_threshold & curr_freqs > 0)]
-  
-  ## I've added this for you so you can see where it's core/rare/inter
-  classification$details[i] = paste("Core:", paste(core, collapse = "+"), 
-                                    "Inter:", paste(inter, collapse = "+"), 
-                                    "Rare:", paste(rare, collapse = "+"), sep = " ")
+  if (rownames(curr_freqs)%in%singleton_genes){    ## split here to allow distinguishing between rare, singleton and absent ## might be better ways to implement if statement
+    core = character(0)
+    inter = character(0)
+    rare = character(0)
+    singleton = colnames(curr_freqs)[which(curr_freqs < rare_threshold & curr_freqs > 0)]
+    
+    classification$details[i] = paste("Core:", paste(core, collapse = "+"), 
+                                      "Inter:", paste(inter, collapse = "+"), 
+                                      "Rare:", paste(rare, collapse = "+"),
+                                      "Singleton:", paste(singleton, collapse = "+"), sep = " ")
+    }
+  else {
+    ## count how many core/inter/rare
+    core = colnames(curr_freqs)[which(curr_freqs >= core_thresold)]
+    inter = colnames(curr_freqs)[which(curr_freqs < core_thresold & curr_freqs >= rare_threshold)]
+    rare = colnames(curr_freqs)[which(curr_freqs < rare_threshold & curr_freqs > 0)]
+    singleton = NULL
+    ## I've added this for you so you can see where it's core/rare/inter
+    classification$details[i] = paste("Core:", paste(core, collapse = "+"), 
+                                      "Inter:", paste(inter, collapse = "+"), 
+                                      "Rare:", paste(rare, collapse = "+"),
+                                      "Singleton:", paste(singleton, collapse = "+"), sep = " ")
+    }
   ## update the output dataframe
   classification$core[i] = length(core)
   classification$inter[i] = length(inter)
   classification$rare[i] = length(rare)
-  classification$total[i] = length(c(core, rare, inter))
+  classification$singleton[i] = sum(!is.null(singleton)) # allows distinguishing of singleton genes from lineage_to_keep vs those from other genomes
+  classification$total[i] = length(c(core, rare, inter, singleton))
 }
 
 ## now the genes can be classified based on their total presence
@@ -139,7 +169,8 @@ classification$general_class = rep("Varied", dim(classification)[1]) ## initiate
 classification$general_class[which(classification$core == classification$total)] = "Core"  ##always core
 classification$general_class[which(classification$inter == classification$total)] = "Intermediate" ## always inter
 classification$general_class[which(classification$rare == classification$total)] = "Rare" ## always rare
-classification$general_class[which(classification$total == 0)] = "Absent in large lineages"
+classification$general_class[which(classification$singleton == 1)] = "Singleton" ## always singleton
+classification$general_class[which(classification$total == 0 & classification$singleton == 0)] = "Absent in large lineages"
 
 ## Now sub-classify based on the precise combinations -> as you can see it's not very clever!
 classification$specific_class = rep("Core, intermediate and rare", dim(classification)[1])
@@ -155,6 +186,7 @@ classification$specific_class[which(classification$general_class == "Rare" & cla
 classification$specific_class[which(classification$general_class == "Varied" & classification$rare == 0)] = "Core and intermediate"
 classification$specific_class[which(classification$general_class == "Varied" & classification$inter == 0)] = "Core and rare"
 classification$specific_class[which(classification$general_class == "Varied" & classification$core == 0)] = "Intermediate and rare"
+classification$specific_class[which(classification$general_class == "Singleton")] = "Singleton"
 classification$specific_class[which(classification$general_class == "Absent in large lineages")] = "Absent in large lineages"
 
 
@@ -190,6 +222,10 @@ write.table(genes_per_isolate, file = output_genes_per_isolate, sep = "\t", col.
 # genes_per_isolate = read.table("~/cholera_club/process_clustering/out/genes_per_isolate.tab", sep = "\t",
 #                                comment.char = "", stringsAsFactors = F, header = T)
 
+# List of isolates containing high singleton gene numbers ## could be printed if lots of singletons detected
+high_nums_singletons <- genes_per_isolate[genes_per_isolate$class=="Singleton"&genes_per_isolate$count>100,]
+
+
 ############# PLOTTING ############# 
 
 
@@ -203,8 +239,13 @@ colours = data.frame(
              "Collection rare", "Intermediate and rare","Core, intermediate and rare","Core and rare", "Core and intermediate",
              "Absent in large lineages"),
   Colour = c("#542788","#8c96c6","#08519c","#fa9fb5","#c51b8a","#7d1158",
-             "#fec44f","#d95f0e","#b1300b","#edf8e9","#bae4b3","#74c476","#238b45", "#d3d3d3"), stringsAsFactors = F
-)
+             "#fec44f","#d95f0e","#b1300b","#edf8e9","#bae4b3","#74c476","#238b45", "#d3d3d3"), stringsAsFactors = F 
+) 
+
+## add singletons as a darker grey than absents
+if (!remove_singletons) {
+  colours = rbind(colours, c("Singleton", "#787878"))
+}
 
 classification$label = paste(classification$total, "/", num_groups ,sep ="")
 classification$label = factor(classification$label, paste(1:num_groups, "/",num_groups,sep="")) 
